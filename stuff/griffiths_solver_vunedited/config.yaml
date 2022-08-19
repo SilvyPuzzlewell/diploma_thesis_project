@@ -1,0 +1,32 @@
+duplication: False
+test: postfix
+# Model specification
+model: mwp_2_8_256_1024_2022-05-09 02:08:57.815019
+layers: 2
+heads: 8
+d_model: 256
+dff: 1024
+lr: scheduled
+dropout: 0.1
+# Training
+epochs: 300
+batch: 128
+# Options: "dolphin", "imdb", "wikipedia_en_DUMPNUM"
+pretrain: false
+# Adam optimizer params
+beta_1: 0.95
+beta_2: 0.99
+# Data pre-processing
+pos: False
+pos_words: False
+remove_stopwords: False
+as_lemmas: False
+reorder: False
+tagging: lst
+# Other behavior
+input: False
+seed: 420365
+save: True
+path_train: /home/sylvi/diplomka/my_code/griffiths_solver_vunedited/data/train_mawps_postfix.p
+path_test: /home/sylvi/diplomka/my_code/griffiths_solver_vunedited/data/test_mawps_postfix.p
+test_csv: False

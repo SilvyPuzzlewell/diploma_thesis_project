@@ -1,0 +1,1298 @@
+[
+    {
+        "id": "23001",
+        "original_text": "凤凰山到青山溶洞的距离是240千米，大客车每小时行60千米，小轿车每小时行80千米．两车同时从凤凰山开往青山溶洞，小轿车比大客车提前几小时到达？",
+        "segmented_text": "凤凰山 到 青山 溶洞 的 距离 是 240 千米 ， 大客车 每 小时 行 60 千米 ， 小轿车 每 小时 行 80 千米 ． 两车 同时 从 凤凰山 开往 青山 溶洞 ， 小轿车 比 大客车 提前 几小时 到达 ？",
+        "equation": "x=240/60-240/80",
+        "ans": "1",
+        "en_text": "The distance from Fenghuang mountain to Qingshan karst cave is 240 kilometers. Buses travel 60 kilometers per hour and cars travel 80 kilometers per hour. Two cars drive from Fenghuang mountain to Qingshan karst cave at the same time. How many hours does the car arrive earlier than the bus?\n"
+    },
+    {
+        "id": "23002",
+        "original_text": "利民商店一共花了288元批发了4箱梨，每箱24㎏，梨的批发价是每千克多少元？",
+        "segmented_text": "利民 商店 一共 花 了 288 元 批发 了 4 箱 梨 ， 每箱 24 ㎏ ， 梨 的 批发价 是 每千克 多少 元 ？",
+        "equation": "x=288/4/24",
+        "ans": "3",
+        "en_text": "Limin store spent 288 yuan to wholesale 4 boxes of pears, 24 kg per box. How much is the wholesale price of pears per kg?\n"
+    },
+    {
+        "id": "23003",
+        "original_text": "8个桃子换4个苹果，1个梨换3个苹果，一个梨换多少个桃子．",
+        "segmented_text": "8 个 桃子 换 4 个 苹果 ， 1 个 梨 换 3 个 苹果 ， 一个 梨 换 多少 个 桃子 ．",
+        "equation": "x=8/4*3",
+        "ans": "6",
+        "en_text": "Eight peaches for four apples, one pear for three apples, and one pear for many peaches\n"
+    },
+    {
+        "id": "23004",
+        "original_text": "要运粮食184.5吨，已经运了4天，平均每天运22.5吨，余下的3天运完，平均每天运多少吨？",
+        "segmented_text": "要 运 粮食 184.5 吨 ， 已经 运 了 4 天 ， 平均 每天 运 22.5 吨 ， 余下 的 3 天运 完 ， 平均 每天 运 多少 吨 ？",
+        "equation": "x=(184.5-22.5*4)/3",
+        "ans": "31.5",
+        "en_text": "184.5 tons of grain have been transported for four days, with an average of 22.5 tons per day. How many tons per day are transported after the remaining three days?\n"
+    },
+    {
+        "id": "23005",
+        "original_text": "5年一班有50名学生，在一次考试中，得60分以上的有90%，有多少人不及格．",
+        "segmented_text": "5 年 一班 有 50 名 学生 ， 在 一次 考试 中 ， 得 60 分 以上 的 有 90% ， 有 多少 人 不及格 ．",
+        "equation": "x=50*(1-90)",
+        "ans": "5",
+        "en_text": "There are 50 students in class 5. In an exam, 90% get more than 60 points. How many people fail\n"
+    },
+    {
+        "id": "23006",
+        "original_text": "教室里有一些女同学和25个男同学，走出3个男同学和15个女同学后，剩下的男同学和女同学一样多．原来有女同学多少个．",
+        "segmented_text": "教室 里 有 一些 女同学 和 25 个 男同学 ， 走出 3 个 男同学 和 15 个 女同学 后 ， 剩下 的 男同学 和 女同学 一样 多 ． 原来 有 女同学 多少 个 ．",
+        "equation": "x=25-3+15",
+        "ans": "37",
+        "en_text": "There are some female students and 25 male students in the classroom. After walking out of 3 male students and 15 female students, there are as many male students as female students. How many female students were there\n"
+    },
+    {
+        "id": "23007",
+        "original_text": "公园的露天剧场有4个同样的看台，每个看台有11排椅子，每排21个座位，露天剧场共有多少个座位？",
+        "segmented_text": "公园 的 露天剧场 有 4 个 同样 的 看台 ， 每个 看台 有 11 排 椅子 ， 每排 21 个 座位 ， 露天剧场 共有 多少 个 座位 ？",
+        "equation": "x=21*11*4",
+        "ans": "924",
+        "en_text": "The park's amphitheater has four identical stands, each with 11 rows of chairs and 21 seats in each row. How many seats are there in the amphitheater?\n"
+    },
+    {
+        "id": "23008",
+        "original_text": "1个工厂原有个人40人，由于提高设备，需要精简工人5名，精简了百分之几？",
+        "segmented_text": "1 个 工厂 原有 个人 40 人 ， 由于 提高 设备 ， 需要 精简 工人 5 名 ， 精简 了 百分之几 ？",
+        "equation": "x=5/40",
+        "ans": "12.5",
+        "en_text": "There were 40 individuals in one factory. Due to the improvement of equipment, 5 workers need to be reduced. What percentage has been reduced?\n"
+    },
+    {
+        "id": "23009",
+        "original_text": "我国参加28届奥运会的男运动员138人，女运动员比男运动员的2倍少7人．男、女运动员一共多少人？",
+        "segmented_text": "我国 参加 28 届 奥运会 的 男 运动员 138 人 ， 女 运动员 比 男 运动员 的 2 倍 少 7 人 ． 男 、 女 运动员 一共 多少 人 ？",
+        "equation": "x=138+(138*2-7)",
+        "ans": "407",
+        "en_text": "China has 138 male athletes participating in the 28th Olympic Games, and 7 female athletes are twice less than male athletes. How many male and female athletes are there?\n"
+    },
+    {
+        "id": "23010",
+        "original_text": "小齿轮有28个齿，是大齿轮数的(1)/(5)，大齿轮有多少个齿？",
+        "segmented_text": "小齿轮 有 28 个 齿 ， 是 大 齿轮 数 的 (1)/(5) ， 大 齿轮 有 多少 个 齿 ？",
+        "equation": "x=28/(1)/(5)",
+        "ans": "140",
+        "en_text": "The pinion has 28 teeth, which is (1) / (5) of the number of big gears. How many teeth does the big gear have?\n"
+    },
+    {
+        "id": "23011",
+        "original_text": "小婉家今年小麦产量是2500千克，比去年增产500千克，增产了百分之几？",
+        "segmented_text": "小 婉 家 今年 小麦 产量 是 2500 千克 ， 比 去年 增产 500 千克 ， 增产 了 百分之几 ？",
+        "equation": "x=500/(2500-500)",
+        "ans": "25",
+        "en_text": "Xiaowan's wheat output this year is 2500 kg, an increase of 500 kg over last year. What percentage increase?\n"
+    },
+    {
+        "id": "23012",
+        "original_text": "小林步行的速度是60米/分钟，他8分钟步行多少米．",
+        "segmented_text": "小林 步行 的 速度 是 60 米 / 分钟 ， 他 8 分钟 步行 多少 米 ．",
+        "equation": "x=60*8",
+        "ans": "480",
+        "en_text": "Kobayashi's walking speed is 60 meters per minute. How many meters does he walk in 8 minutes\n"
+    },
+    {
+        "id": "23013",
+        "original_text": "1条裤子的价格是75元，是一条上衣的(2)/(3)．一套衣服多少钱？",
+        "segmented_text": "1 条 裤子 的 价格 是 75 元 ， 是 一条 上衣 的 (2)/(3) ． 一套 衣服 多少 钱 ？",
+        "equation": "x=75+75/(2)/(3)",
+        "ans": "187.5",
+        "en_text": "The price of a pair of trousers is 75 yuan, which is (2) / (3) of a coat. How much is a suit of clothes?\n"
+    },
+    {
+        "id": "23014",
+        "original_text": "有一块布，用去了(3)/(5)，还剩下几分之几？",
+        "segmented_text": "有 一块 布 ， 用 去 了 (3)/(5) ， 还 剩下 几分 之 几 ？",
+        "equation": "x=1-(3)/(5)",
+        "ans": "(2)/(5)",
+        "en_text": "There is a piece of cloth. After (3) / (5) is used, what percentage is left?\n"
+    },
+    {
+        "id": "23015",
+        "original_text": "291-13.5与6的积，所得的差除以4.2，商=？",
+        "segmented_text": "291 - 13.5 与 6 的 积 ， 所得 的 差 除以 4.2 ， 商 = ？",
+        "equation": "x=(291-13.5*6)/4.2",
+        "ans": "50",
+        "en_text": "291 - the product of 13.5 and 6, the difference divided by 4.2, quotient =?\n"
+    },
+    {
+        "id": "23016",
+        "original_text": "学校有篮球56个，足球比篮球多(1)/(8)，学校有多少个足球？",
+        "segmented_text": "学校 有 篮球 56 个 ， 足球 比 篮球 多 (1)/(8) ， 学校 有 多少 个 足球 ？",
+        "equation": "x=56*(1+(1)/(8))",
+        "ans": "63",
+        "en_text": "There are 56 basketball in the school. Football is more than basketball (1) / (8). How many football are there in the school?\n"
+    },
+    {
+        "id": "23017",
+        "original_text": "1个平行四边形的面积是4.8平方分米，高是1.2分米，底=多少分米．",
+        "segmented_text": "1 个 平行四边形 的 面积 是 4.8 平方分米 ， 高 是 1.2 分 米 ， 底 = 多少 分 米 ．",
+        "equation": "x=4.8/1.2",
+        "ans": "4",
+        "en_text": "The area of a parallelogram is 4.8 square decimeters, the height is 1.2 decimeters, and the bottom = how many decimeters\n"
+    },
+    {
+        "id": "23018",
+        "original_text": "六年级同学进行体育达标测试，在第一次达标测试中(4)/(7)的同学达到了标准，经一个月锻炼后，没达标的同学又参加了第2次达标测试，结果参加人数的(5)/(6)都达到了标准，只余下8名同学没有达标．请算1算，六年级共有多少名同学？",
+        "segmented_text": "六年级 同学 进行 体育 达标 测试 ， 在 第一次 达标 测试 中 (4)/(7) 的 同学 达到 了 标准 ， 经 一个月 锻炼 后 ， 没 达标 的 同学 又 参加 了 第 2 次 达标 测试 ， 结果 参加 人数 的 (5)/(6) 都 达到 了 标准 ， 只 余下 8 名 同学 没有 达标 ． 请 算 1 算 ， 六年级 共有 多少 名 同学 ？",
+        "equation": "x=8/(1-(5)/(6))/(1-(4)/(7))",
+        "ans": "112",
+        "en_text": "The sixth grade students took the sports compliance test. In the first compliance test, the students (4) / (7) reached the standard. After one month's exercise, the students who failed to meet the standard participated in the second compliance test. As a result, the number of participants (5) / (6) reached the standard, and only the remaining 8 students failed to meet the standard. Please count one, How many students are there in Grade 6?\n"
+    },
+    {
+        "id": "23019",
+        "original_text": "1台拖拉机上午耕地3小时，共耕地1050平方米．照这样计算，下午再耕4小时，这一天能耕地多少平方米？",
+        "segmented_text": "1 台 拖拉机 上午 耕地 3 小时 ， 共 耕地 1050 平方米 ． 照 这样 计算 ， 下午 再 耕 4 小时 ， 这 一天 能 耕地 多少 平方米 ？",
+        "equation": "x=(1050/3)*(3+4)",
+        "ans": "2450",
+        "en_text": "A tractor cultivates land for 3 hours in the morning, with a total of 1050 square meters. According to this calculation, how many square meters can be cultivated for another 4 hours in the afternoon?\n"
+    },
+    {
+        "id": "23020",
+        "original_text": "18的(5)/(9)+(2)/(5)/(7)/(15)的商，和=？",
+        "segmented_text": "18 的 (5)/(9) + (2)/(5) / (7)/(15) 的 商 ， 和 = ？",
+        "equation": "x=18*(5)/(9)+(2)/(5)/(7)/(15)",
+        "ans": "10(6)/(7)",
+        "en_text": "The quotient of (5) / (9) + (2) / (5) / (7) / (15) of 18, and =?\n"
+    },
+    {
+        "id": "23021",
+        "original_text": "果园里有苹果树300棵，比桔树多20%，桔树有多少棵？",
+        "segmented_text": "果园 里 有 苹果树 300 棵 ， 比 桔树 多 20% ， 桔树 有 多少 棵 ？",
+        "equation": "x=300/(1+20)",
+        "ans": "250",
+        "en_text": "There are 300 apple trees in the orchard, 20% more than orange trees. How many orange trees are there?\n"
+    },
+    {
+        "id": "23022",
+        "original_text": "1辆汽车用了2小时行完全程的(4)/(5)，行完全程需要多少小时．",
+        "segmented_text": "1 辆 汽车 用 了 2 小时 行 完全 程 的 (4)/(5) ， 行 完全 程 需要 多少 小时 ．",
+        "equation": "x=2/(4)/(5)",
+        "ans": "2(1)/(2)",
+        "en_text": "It takes 2 hours for a car to complete the whole journey (4) / (5). How many hours does it take to complete the whole journey\n"
+    },
+    {
+        "id": "23023",
+        "original_text": "教室前面的墙壁，长6米，高3米．墙上有一块面积是3.8平方米的黑板．现在要粉刷这面墙，要粉刷的面积=？",
+        "segmented_text": "教室 前面 的 墙壁 ， 长 6 米 ， 高 3 米 ． 墙上 有 一块 面积 是 3.8 平方米 的 黑板 ． 现在 要 粉刷 这 面墙 ， 要 粉刷 的 面积 = ？",
+        "equation": "x=6*3-3.8",
+        "ans": "14.2",
+        "en_text": "The wall in front of the classroom is 6 meters long and 3 meters high. There is a blackboard with an area of 3.8 square meters on the wall. Now I want to paint this wall. The area to be painted =?\n"
+    },
+    {
+        "id": "23024",
+        "original_text": "李英读1本书，第一天读了全书的(1)/(3)，第2天读的比全书的25%还多18页，这时读了的页数和没读的比是3：1，这本书共有多少页？",
+        "segmented_text": "李 英 读 1 本书 ， 第一天 读 了 全书 的 (1)/(3) ， 第 2 天 读 的 比 全书 的 25% 还 多 18 页 ， 这时 读 了 的 页数 和 没 读 的 比 是 3 ： 1 ， 这 本书 共有 多少 页 ？",
+        "equation": "x=18/(1-(1)/(3)-25-(1)/(3+1))",
+        "ans": "108",
+        "en_text": "Li Ying read a book. On the first day, she read (1) / (3) of the whole book. On the second day, she read 18 pages more than 25% of the whole book. At this time, the ratio between the number of pages read and the number of pages not read is 3:1. How many pages are there in this book?\n"
+    },
+    {
+        "id": "23025",
+        "original_text": "小红问王老师今年多大年纪，王老师说：“我的年纪加上9，除以4，减去2，再乘3，恰好是30岁”，王老师今年多少岁？",
+        "segmented_text": "小 红 问 王老师 今年 多 大 年纪 ， 王老师 说 ： “ 我 的 年纪 加上 9 ， 除以 4 ， 减去 2 ， 再 乘 3 ， 恰好 是 30 岁 ” ， 王老师 今年 多少岁 ？",
+        "equation": "x=(30/3+2)*4-9",
+        "ans": "39",
+        "en_text": "Xiao Hong asked Miss Wang how old she was this year. Miss Wang said, \"my age is 30 years old by adding 9, dividing by 4, subtracting 2 and multiplying by 3\". How old is Miss Wang this year?\n"
+    },
+    {
+        "id": "23026",
+        "original_text": "1支钢笔12元，一支圆珠笔8元，如果学校要购买钢笔和圆珠笔各20支．学校买钢笔和圆珠笔一共需要多少钱？",
+        "segmented_text": "1 支 钢笔 12 元 ， 一支 圆珠笔 8 元 ， 如果 学校 要 购买 钢笔 和 圆珠笔 各 20 支 ． 学校 买 钢笔 和 圆珠笔 一共 需要 多少 钱 ？",
+        "equation": "x=12*20+8*20",
+        "ans": "400",
+        "en_text": "A pen is 12 yuan and a ballpoint pen is 8 yuan. If the school wants to buy 20 pens and 20 ballpoint pens, how much does the school need to buy pens and ballpoint pens?\n"
+    },
+    {
+        "id": "23027",
+        "original_text": "1条水渠，已经修了5.6千米，未修的是已修的2.7倍，这条水渠全长多少千米？",
+        "segmented_text": "1 条 水渠 ， 已经 修 了 5.6 千米 ， 未 修 的 是 已修 的 2.7 倍 ， 这 条 水渠 全长 多少 千米 ？",
+        "equation": "x=5.6*(2.7+1)",
+        "ans": "20.72",
+        "en_text": "A canal has been built for 5.6 kilometers, and the one that has not been built is 2.7 times the one that has been built. How many kilometers is the total length of this canal?\n"
+    },
+    {
+        "id": "23028",
+        "original_text": "玩具厂生产一批玩具，计划每天生产36件，12天完成，这批玩具一共有多少件？",
+        "segmented_text": "玩具厂 生产 一批 玩具 ， 计划 每天 生产 36 件 ， 12 天 完成 ， 这 批 玩具 一共 有 多少 件 ？",
+        "equation": "x=36*12",
+        "ans": "432",
+        "en_text": "The toy factory produces a batch of toys. It plans to produce 36 toys every day and complete them in 12 days. How many toys are there in total?\n"
+    },
+    {
+        "id": "23029",
+        "original_text": "书架上有6本不同的外语书，4本不同的语文书，从中任取外语、语文书各一本，有多少种不同的取法．",
+        "segmented_text": "书架上 有 6 本 不同 的 外语 书 ， 4 本 不同 的 语文 书 ， 从中 任 取 外语 、 语文 书 各 一本 ， 有 多少 种 不同 的 取法 ．",
+        "equation": "x=6*4",
+        "ans": "24",
+        "en_text": "There are six different foreign language books and four different Chinese books on the bookshelf. Choose one foreign language book and one Chinese book. How many different ways are there\n"
+    },
+    {
+        "id": "23030",
+        "original_text": "修一条公路，第一天修了全长的(2)/(5)，第2天修了全长的25%，还剩下1400米没修．这条公路全长多少米？",
+        "segmented_text": "修 一条 公路 ， 第一天 修 了 全长 的 (2)/(5) ， 第 2 天 修 了 全长 的 25% ， 还 剩下 1400 米 没 修 ． 这 条 公路 全长 多少 米 ？",
+        "equation": "x=1400/(1-(2)/(5)-25)",
+        "ans": "4000",
+        "en_text": "Build a highway. On the first day, you built (2) / (5) of the total length. On the second day, you built 25% of the total length. There are still 1400 meters left. How many meters is the total length of the highway?\n"
+    },
+    {
+        "id": "23031",
+        "original_text": "某校开展节约用电活动，前4个月共节约用电424度．照这样计算，一年（12月）能节约用电多少度？",
+        "segmented_text": "某校 开展 节约用电 活动 ， 前 4 个 月 共 节约用电 424 度 ． 照 这样 计算 ， 一年 （ 12 月 ） 能 节约用电 多少度 ？",
+        "equation": "x=12/4*424",
+        "ans": "1272",
+        "en_text": "A school carried out electricity saving activities, saving 424 kwh in the first four months. According to this calculation, how many kwh can be saved in a year (December)?\n"
+    },
+    {
+        "id": "23032",
+        "original_text": "1根绳子长(8)/(9)米，截下(1)/(4)米，还剩多少米．",
+        "segmented_text": "1 根 绳子 长 (8)/(9) 米 ， 截下 (1)/(4) 米 ， 还 剩 多少 米 ．",
+        "equation": "x=(8)/(9)-(1)/(4)",
+        "ans": "(23)/(36)",
+        "en_text": "A rope is (8) / (9) meters long. Cut (1) / (4) meters. How many meters are left\n"
+    },
+    {
+        "id": "23033",
+        "original_text": "1个数的(4)/(25)是28，这个数=．",
+        "segmented_text": "1 个数 的 (4)/(25) 是 28 ， 这个 数 = ．",
+        "equation": "x=28/(4)/(25)",
+        "ans": "175",
+        "en_text": "The (4) / (25) of a number is 28, and this number =\n"
+    },
+    {
+        "id": "23034",
+        "original_text": "1个梯形的上底是1.8分米，下底是2分米，高是0.5分米，它的面积=多少平方分米．",
+        "segmented_text": "1 个 梯形 的 上 底 是 1.8 分 米 ， 下 底 是 2 分 米 ， 高 是 0.5 分 米 ， 它 的 面积 = 多少 平方分米 ．",
+        "equation": "x=(1.8+2)*0.5/2",
+        "ans": "0.95",
+        "en_text": "The upper bottom of a trapezoid is 1.8 decimeters, the lower bottom is 2 decimeters, and the height is 0.5 decimeters. Its area = how many square decimeters\n"
+    },
+    {
+        "id": "23035",
+        "original_text": "大瓶子装饮料(3)/(5)千克，比小瓶子多装(1)/(8)千克．一只大瓶子和一只小瓶子共装饮料多少千克？",
+        "segmented_text": "大 瓶子 装 饮料 (3)/(5) 千克 ， 比 小 瓶子 多 装 (1)/(8) 千克 ． 一只 大 瓶子 和 一只 小 瓶子 共 装 饮料 多少 千克 ？",
+        "equation": "x=(3)/(5)-(1)/(8)+(3)/(5)",
+        "ans": "(43)/(40)",
+        "en_text": "A large bottle holds (3) / (5) kg of beverage, which is (1) / (8) kg more than a small bottle. How many kilograms of beverage do a large bottle and a small bottle hold?\n"
+    },
+    {
+        "id": "23036",
+        "original_text": "从甲地到乙地如果乘车要用2.1小时，如果骑自行车，平均每小时行10.5千米，比乘车多花2.9小时，乘车平均每小时行多少千米？",
+        "segmented_text": "从 甲地 到 乙地 如果 乘车 要 用 2.1 小时 ， 如果 骑 自行车 ， 平均 每 小时 行 10.5 千米 ， 比 乘车 多 花 2.9 小时 ， 乘车 平均 每 小时 行 多少 千米 ？",
+        "equation": "x=10.5*(2.1+2.9)/2.1",
+        "ans": "25",
+        "en_text": "It takes 2.1 hours to travel from place a to place B. If you ride a bicycle, you can travel an average of 10.5 kilometers per hour, which takes 2.9 hours more than riding. How many kilometers per hour?\n"
+    },
+    {
+        "id": "23037",
+        "original_text": "学校有20个足球，篮球比足球多(1)/(4)，篮球有多少个？",
+        "segmented_text": "学校 有 20 个 足球 ， 篮球 比 足球 多 (1)/(4) ， 篮球 有 多少 个 ？",
+        "equation": "x=20*(1+(1)/(4))",
+        "ans": "25",
+        "en_text": "There are 20 football in the school. Basketball is more than football (1) / (4). How many basketball?\n"
+    },
+    {
+        "id": "23038",
+        "original_text": "1家商场，十月份的营业额是352.6万元，按营业税率5%计算，这个月应缴纳营业税多少万元？",
+        "segmented_text": "1 家 商场 ， 十 月份 的 营业额 是 352.6 万元 ， 按 营业税 率 5% 计算 ， 这个 月 应 缴纳 营业税 多少 万元 ？",
+        "equation": "x=352.6*5",
+        "ans": "17.63",
+        "en_text": "The turnover of a shopping mall in October was 3.526 million yuan. Calculated according to the business tax rate of 5%, how much business tax should be paid this month?\n"
+    },
+    {
+        "id": "23039",
+        "original_text": "1捆电线长100米，第一次用去全长的(1)/(4)，第2次用去全长的(2)/(5)，还剩多少米没有用？",
+        "segmented_text": "1 捆 电线 长 100 米 ， 第一次 用 去 全长 的 (1)/(4) ， 第 2 次 用 去 全长 的 (2)/(5) ， 还 剩 多少 米 没有 用 ？",
+        "equation": "x=100*(1-(1)/(4)-(2)/(5))",
+        "ans": "35",
+        "en_text": "One bundle of wires is 100 meters long. For the first time, (1) / (4) of the full length is used, and for the second time, (2) / (5) of the full length is used. How many meters are left unused?\n"
+    },
+    {
+        "id": "23040",
+        "original_text": "1桶油第一次倒出37.5%，第2次倒出40%，两次共倒出62千克．这捅油原来有多少千克？",
+        "segmented_text": "1 桶 油 第一次 倒 出 37.5% ， 第 2 次 倒 出 40% ， 两次 共 倒 出 62 千克 ． 这 捅 油 原来 有 多少 千克 ？",
+        "equation": "x=62/(37.5+40)",
+        "ans": "80",
+        "en_text": "One barrel of oil was poured out 37.5% for the first time and 40% for the second time. A total of 62 kg was poured out twice. How many kg of oil did this poke originally have?\n"
+    },
+    {
+        "id": "23041",
+        "original_text": "某工厂食堂原来每天用煤(2)/(5)吨，改造锅炉后，每天比原来节约(1)/(6)，每天节约用煤多少吨？",
+        "segmented_text": "某 工厂 食堂 原来 每天 用 煤 (2)/(5) 吨 ， 改造 锅炉 后 ， 每天 比 原来 节约 (1)/(6) ， 每天 节约 用 煤 多少 吨 ？",
+        "equation": "x=(2)/(5)*(1)/(6)",
+        "ans": "(1)/(15)",
+        "en_text": "The canteen of a factory used (2) / (5) tons of coal every day. After the boiler is transformed, it saves (1) / (6) tons of coal every day. How many tons of coal are saved every day?\n"
+    },
+    {
+        "id": "23042",
+        "original_text": "某蔬菜商店上午卖出蔬菜128千克，下午卖出215千克，还剩67千克，这个商店原来有蔬菜多少千克？",
+        "segmented_text": "某 蔬菜 商店 上午 卖出 蔬菜 128 千克 ， 下午 卖出 215 千克 ， 还 剩 67 千克 ， 这个 商店 原来 有 蔬菜 多少 千克 ？",
+        "equation": "x=128+215+67",
+        "ans": "410",
+        "en_text": "A vegetable store sold 128 kilograms of vegetables in the morning and 215 kilograms in the afternoon. There are 67 kilograms left. How many kilograms of vegetables did the store originally have?\n"
+    },
+    {
+        "id": "23043",
+        "original_text": "李庄距王庄1500米，张叔叔每分钟走80米，走了15分钟，距王庄还有多少米？",
+        "segmented_text": "李 庄 距 王 庄 1500 米 ， 张 叔叔 每分钟 走 80 米 ， 走 了 15 分钟 ， 距 王 庄 还有 多少 米 ？",
+        "equation": "x=1500-(80*15)",
+        "ans": "300",
+        "en_text": "Li Zhuang is 1500 meters away from Wang Zhuang. Uncle Zhang walks 80 meters every minute for 15 minutes. How many meters are there from Wang Zhuang?\n"
+    },
+    {
+        "id": "23044",
+        "original_text": "用1200千克出粉率为85%的小麦，能磨出面粉多少千克？",
+        "segmented_text": "用 1200 千克 出粉率 为 85% 的 小麦 ， 能 磨 出 面粉 多少 千克 ？",
+        "equation": "x=1200*85",
+        "ans": "1020",
+        "en_text": "How many kilograms of flour can be ground with 1200 kg of wheat with a flour yield of 85%?\n"
+    },
+    {
+        "id": "23045",
+        "original_text": "仓库里有一批大米，第一天运出全部大米的一半少2吨，第2天运出余下的一半多3吨，这时仓库里还剩下12吨，仓库里原有大米多少吨？",
+        "segmented_text": "仓库 里 有 一批 大米 ， 第一天 运出 全部 大米 的 一半 少 2 吨 ， 第 2 天 运出 余下 的 一半多 3 吨 ， 这时 仓库 里 还 剩下 12 吨 ， 仓库 里 原有 大米 多少 吨 ？",
+        "equation": "x=(12+3)*2-2*2",
+        "ans": "56",
+        "en_text": "There is a batch of rice in the warehouse. Half of the rice shipped out on the first day is less than 2 tons, and the remaining half is more than 3 tons on the second day. At this time, there are still 12 tons left in the warehouse. How many tons of rice are there in the warehouse?\n"
+    },
+    {
+        "id": "23046",
+        "original_text": "6年一班有男生25人，占全班人数的(5)/(9)，全班共有学生多少人？",
+        "segmented_text": "6 年 一班 有 男生 25 人 ， 占 全班 人数 的 (5)/(9) ， 全班 共有 学生 多少 人 ？",
+        "equation": "x=25/(5)/(9)",
+        "ans": "45",
+        "en_text": "There are 25 boys in class 6, accounting for (5) / (9) of the class. How many students are there in the class?\n"
+    },
+    {
+        "id": "23047",
+        "original_text": "1根铁丝，第一次用去(3)/(7)米，比第2次多用去(1)/(7)米，两次1共用去多少米？",
+        "segmented_text": "1 根 铁丝 ， 第一次 用 去 (3)/(7) 米 ， 比 第 2 次 多用 去 (1)/(7) 米 ， 两次 1 共用 去 多少 米 ？",
+        "equation": "x=(3)/(7)+((3)/(7)-(1)/(7))",
+        "ans": "(5)/(7)",
+        "en_text": "For one iron wire, it takes (3) / (7) meters for the first time, which is more than (1) / (7) meters for the second time. How many meters are used for two times?\n"
+    },
+    {
+        "id": "23048",
+        "original_text": "同学们做了420朵红花，红花的朵数比黄花的3倍还多60朵，黄花有几朵？",
+        "segmented_text": "同学 们 做 了 420 朵 红花 ， 红花 的 朵 数 比 黄花 的 3 倍 还 多 60 朵 ， 黄花 有 几朵 ？",
+        "equation": "x=(420-60)/3",
+        "ans": "120",
+        "en_text": "The students made 420 red flowers. The number of red flowers is 60 more than three times that of yellow flowers. How many yellow flowers are there?\n"
+    },
+    {
+        "id": "23049",
+        "original_text": "计算（58+16）-24/6时，应先算多少法，再算多少法，最后算多少法，结果=．",
+        "segmented_text": "计算 （ 58 + 16 ） - 24 / 6 时 ， 应 先 算 多少 法 ， 再 算 多少 法 ， 最后 算 多少 法 ， 结果 = ．",
+        "equation": "x=(58+16)-24/6",
+        "ans": "70",
+        "en_text": "When calculating (58 + 16) - 24 / 6, how many methods should be calculated first, then, and finally, the result =\n"
+    },
+    {
+        "id": "23050",
+        "original_text": "由于日本政府“购买”钓鱼岛而引发中国民众自发的“抵制日货”行动，导致日系车销售“遇冷”．一款日系车原价12万元，现在降价(1)/(6)出售，这款车现在的售价=多少万元？",
+        "segmented_text": "由于 日本政府 “ 购买 ” 钓鱼岛 而 引发 中国 民众 自发 的 “ 抵制 日货 ” 行动 ， 导致 日 系 车 销售 “ 遇冷 ” ． 一款 日 系 车 原价 12 万元 ， 现在 降价 (1)/(6) 出售 ， 这 款 车 现在 的 售价 = 多少 万元 ？",
+        "equation": "x=12*(1-(1)/(6))",
+        "ans": "10",
+        "en_text": "The Japanese government's \"purchase\" of the Diaoyu Islands triggered a spontaneous \"boycott of Japanese goods\" by the Chinese people, resulting in the \"cold\" sales of Japanese cars. A Japanese car was originally priced at 120000 yuan, but now it is sold at a price of (1) / (6). How much does the current price of this car = 10000 yuan?\n"
+    },
+    {
+        "id": "23051",
+        "original_text": "“51”节假期间，王老师带领他的40名学生看了一场精彩的球幕立体电影，每张电影票35元，一共要花多少钱？",
+        "segmented_text": "“ 5 1 ” 节假 期间 ， 王老师 带领 他 的 40 名 学生 看 了 一场 精彩 的 球 幕 立体电影 ， 每张 电影票 35 元 ， 一共 要 花 多少 钱 ？",
+        "equation": "x=35*(40+1)",
+        "ans": "1435",
+        "en_text": "During the May 1 holiday, Mr. Wang led his 40 students to watch a wonderful ball screen three-dimensional film. Each film ticket was 35 yuan. How much did it cost?\n"
+    },
+    {
+        "id": "23052",
+        "original_text": "妈妈给小明一个大盒子，里面装着6个纸盒子，每个纸盒子又装4个小盒子，小明一共有多少个盒子．",
+        "segmented_text": "妈妈 给 小 明 一个 大 盒子 ， 里面 装 着 6 个 纸盒子 ， 每个 纸盒子 又 装 4 个 小盒子 ， 小 明 一共 有 多少 个 盒子 ．",
+        "equation": "x=4*6+6+1",
+        "ans": "31",
+        "en_text": "Mother gives Xiao Ming a big box, which contains six paper boxes. Each paper box contains four small boxes. How many boxes does Xiao Ming have in total\n"
+    },
+    {
+        "id": "23053",
+        "original_text": "某种童装的批发价是每件30元，零售价是每件38元，王叔叔今天赚了72元，王叔叔今天卖了多少件童装？",
+        "segmented_text": "某种 童装 的 批发价 是 每件 30 元 ， 零售价 是 每件 38 元 ， 王 叔叔 今天 赚 了 72 元 ， 王 叔叔 今天 卖 了 多少 件 童装 ？",
+        "equation": "x=72/(38-30)",
+        "ans": "9",
+        "en_text": "The wholesale price of some children's clothes is 30 yuan per piece, and the retail price is 38 yuan per piece. Uncle Wang made 72 yuan today. How many children's clothes did Uncle Wang sell today?\n"
+    },
+    {
+        "id": "23054",
+        "original_text": "我国第1长河--长江全长6380km，黄河比长江的(9)/(10)要短278km．黄河全长多少千米？",
+        "segmented_text": "我国 第1 长河 - - 长江 全长 6380km ， 黄河 比 长江 的 (9)/(10) 要 短 278km ． 黄河 全长 多少 千米 ？",
+        "equation": "x=6380*(9)/(10)-278",
+        "ans": "5464",
+        "en_text": "The Yangtze River, the first longest river in China, has a total length of 6380km, and the Yellow River is 278km shorter than (9) / (10) of the Yangtze River. How many kilometers is the total length of the Yellow River?\n"
+    },
+    {
+        "id": "23055",
+        "original_text": "学校有100张彩色纸，其中用25张做小花，用32张做小旗，其余的用来扎彩球，扎彩球要用多少张彩色纸？",
+        "segmented_text": "学校 有 100 张 彩色纸 ， 其中 用 25 张 做 小花 ， 用 32 张 做 小旗 ， 其余 的 用来 扎 彩球 ， 扎 彩球 要 用 多少 张 彩色纸 ？",
+        "equation": "x=100-25-32",
+        "ans": "43",
+        "en_text": "The school has 100 pieces of colored paper, of which 25 are used as florets and 32 as flags. The rest are used to tie colored balls. How many pieces of colored paper do you need to tie colored balls?\n"
+    },
+    {
+        "id": "23056",
+        "original_text": "妈妈买了一套运动服164元，一双运动鞋59元，一共应付多少元．",
+        "segmented_text": "妈妈 买 了 一套 运动服 164 元 ， 一双 运动鞋 59 元 ， 一共 应付 多少 元 ．",
+        "equation": "x=164+59",
+        "ans": "223",
+        "en_text": "Mother bought a set of sportswear for 164 yuan and a pair of sports shoes for 59 yuan. How much should she pay in total\n"
+    },
+    {
+        "id": "23057",
+        "original_text": "1条公路已修了80米，占全长的(1)/(4)，这条公路还剩多少米没有修．",
+        "segmented_text": "1 条 公路 已修 了 80 米 ， 占 全长 的 (1)/(4) ， 这 条 公路 还 剩 多少 米 没有 修 ．",
+        "equation": "x=80/(1)/(4)-80",
+        "ans": "240",
+        "en_text": "A highway has been built for 80 meters, accounting for (1) / (4) of the total length. How many meters remains of the highway\n"
+    },
+    {
+        "id": "23058",
+        "original_text": "在公路的一侧，每隔2米插一面彩旗（两端都插），共插了50面，这条公路长多少米．",
+        "segmented_text": "在 公路 的 一侧 ， 每隔 2 米 插 一面 彩旗 （ 两端 都 插 ） ， 共 插 了 50 面 ， 这 条 公路 长 多少 米 ．",
+        "equation": "x=(50-1)*2",
+        "ans": "98",
+        "en_text": "On one side of the highway, a colored flag is inserted every 2 meters (both ends). A total of 50 flags are inserted. How long is the highway\n"
+    },
+    {
+        "id": "23059",
+        "original_text": "AB两地相距180千米，甲乙两车同时从两地开出，同向而行．甲车每小时行105千米，乙车每小时行81千米，几小时后甲车能追上乙车？",
+        "segmented_text": "AB 两地 相距 180 千米 ， 甲乙 两车 同时 从 两地 开出 ， 同 向 而 行 ． 甲 车 每 小时 行 105 千米 ， 乙 车 每 小时 行 81 千米 ， 几小时 后 甲 车 能 追 上 乙 车 ？",
+        "equation": "x=180/(105-81)",
+        "ans": "7.5",
+        "en_text": "AB and ab are 180 kilometers apart. Car a and car B leave both places at the same time and travel in the same direction. Car a travels 105 kilometers per hour and car B travels 81 kilometers per hour. Can car a catch up with car B in a few hours?\n"
+    },
+    {
+        "id": "23060",
+        "original_text": "(3)/(4)箱苹果重12千克，(5)/(8)箱苹果重多少千克．",
+        "segmented_text": "(3)/(4) 箱 苹果 重 12 千克 ， (5)/(8) 箱 苹果 重 多少 千克 ．",
+        "equation": "x=12/(3)/(4)*(5)/(8)",
+        "ans": "10",
+        "en_text": "(3) / (4) a box of apples weighs 12 kilograms, (5) / (8) how many kilograms does a box of apples weigh\n"
+    },
+    {
+        "id": "23061",
+        "original_text": "三年级的学生去春游．女生有56人，男生有64人．6名学生分成一组，一共可以分多少组？",
+        "segmented_text": "三年级 的 学生 去 春游 ． 女生 有 56 人 ， 男生 有 64 人 ． 6 名 学生 分成 一组 ， 一共 可以 分 多少 组 ？",
+        "equation": "x=(56+64)/6",
+        "ans": "20",
+        "en_text": "The third grade students go for a spring outing. There are 56 girls and 64 boys. Six students are divided into a group. How many groups can they be divided into?\n"
+    },
+    {
+        "id": "23062",
+        "original_text": "张庄去年原计划造林128公顷，实际完成计划的125%，实际比计划多造林多少公顷？",
+        "segmented_text": "张 庄 去年 原 计划 造林 128 公顷 ， 实际 完成 计划 的 125% ， 实际 比 计划 多 造林 多少 公顷 ？",
+        "equation": "x=128*(125-1)",
+        "ans": "32",
+        "en_text": "Zhangzhuang originally planned to afforest 128 hectares last year, which actually completed 125% of the plan. How many hectares more than the plan?\n"
+    },
+    {
+        "id": "23063",
+        "original_text": "袋子里由同样大小的红色和白色的乒乓球各10个，要想摸出的球一定有2个同色的，至少要摸出多少个球．",
+        "segmented_text": "袋子 里 由 同样 大小 的 红色 和 白色 的 乒乓球 各 10 个 ， 要 想 摸 出 的 球 一定 有 2 个 同 色 的 ， 至少 要 摸 出 多少 个 球 ．",
+        "equation": "x=2+1",
+        "ans": "3",
+        "en_text": "There are 10 red and white table tennis balls of the same size in the bag. If you want to touch two balls of the same color, you must touch at least how many balls\n"
+    },
+    {
+        "id": "23064",
+        "original_text": "兔子每小时跑41千米，5小时大约跑多少千米．",
+        "segmented_text": "兔子 每 小时 跑 41 千米 ， 5 小时 大约 跑 多少 千米 ．",
+        "equation": "x=41*5",
+        "ans": "205",
+        "en_text": "Rabbits run 41 kilometers per hour, about how many kilometers in five hours\n"
+    },
+    {
+        "id": "23065",
+        "original_text": "甲、乙两车从A、B两地相对开出1.2小时后，两车相距435千米，照同样的速度，出发4.2小时两车相遇，A、B两地相距多少千米．",
+        "segmented_text": "甲 、 乙 两车 从 A 、 B 两地 相对 开出 1.2 小时 后 ， 两车 相距 435 千米 ， 照 同样 的 速度 ， 出发 4.2 小时 两车 相遇 ， A 、 B 两地 相距 多少 千米 ．",
+        "equation": "x=435/(4.2-1.2)*4.2",
+        "ans": "609",
+        "en_text": "After 1.2 hours from a and B, the two cars are 435 kilometers apart. At the same speed, the two cars meet in 4.2 hours. How many kilometers are there between a and B\n"
+    },
+    {
+        "id": "23066",
+        "original_text": "1本文艺书，小明第一天看了全书的(1)/(3)，第2天看了余下的(3)/(5)，还剩下48页，这本书共有多少页．",
+        "segmented_text": "1 本 文艺 书 ， 小 明 第一天 看 了 全书 的 (1)/(3) ， 第 2 天 看 了 余下 的 (3)/(5) ， 还 剩下 48 页 ， 这 本书 共有 多少 页 ．",
+        "equation": "x=48/1-(1)/(3)-(1-(1)/(3))*(3)/(5)",
+        "ans": "180",
+        "en_text": "Xiao Ming read (1) / (3) of the whole book on the first day and the rest (3) / (5) on the second day. There are 48 pages left. How many pages are there in this book\n"
+    },
+    {
+        "id": "23067",
+        "original_text": "北京西站到拉萨的火车T27次每日开行，全程4046千米．如果进藏火车每小时行75千米，要行几小时？",
+        "segmented_text": "北京西站 到 拉萨 的 火车 T27 次 每日 开行 ， 全程 4046 千米 ． 如果 进藏 火车 每 小时 行 75 千米 ， 要 行 几小时 ？",
+        "equation": "x=4046/75",
+        "ans": "53(71)/(75)",
+        "en_text": "The train from Beijing West Railway Station to Lhasa runs T27 times a day, with a total distance of 4046 kilometers. If the train into Tibet runs 75 kilometers per hour, how many hours does it take?\n"
+    },
+    {
+        "id": "23068",
+        "original_text": "在校门口一条120米长的小路一旁每隔3米插一面彩旗（两端要插）．一共要插多少面彩旗．",
+        "segmented_text": "在 校门口 一条 120 米 长 的 小路 一旁 每隔 3 米 插 一面 彩旗 （ 两端 要 插 ） ． 一共 要 插 多少 面 彩旗 ．",
+        "equation": "x=120/3+1",
+        "ans": "41",
+        "en_text": "There is a 120 meter long path at the school gate. A colored flag should be inserted every 3 meters (at both ends). How many colored flags should be inserted in total\n"
+    },
+    {
+        "id": "23069",
+        "original_text": "1只熊猫和一只斑马的体重之和是750千克，已知一只斑马的体重是一只熊猫的4倍，求一只熊猫的体重？",
+        "segmented_text": "1 只 熊猫 和 一只 斑马 的 体重 之 和 是 750 千克 ， 已知 一只 斑马 的 体重 是 一只 熊猫 的 4 倍 ， 求 一只 熊猫 的 体重 ？",
+        "equation": "x=750/(4+1)",
+        "ans": "150",
+        "en_text": "The sum of the weight of a panda and a zebra is 750 kg. It is known that the weight of a zebra is four times that of a panda. What is the weight of a panda?\n"
+    },
+    {
+        "id": "23070",
+        "original_text": "妈妈在超市买了5.5千克西红柿，付出20元，找回2.4元．每千克西红柿多少元？",
+        "segmented_text": "妈妈 在 超市 买 了 5.5 千克 西红柿 ， 付出 20 元 ， 找回 2.4 元 ． 每千克 西红柿 多少 元 ？",
+        "equation": "x=(20-2.4)/5.5",
+        "ans": "3.2",
+        "en_text": "Mother bought 5.5kg tomatoes in the supermarket, paid 20 yuan and got back 2.4 yuan. How much yuan per kilogram of tomatoes?\n"
+    },
+    {
+        "id": "23071",
+        "original_text": "车站水果店运来桃子850千克，苹果1150千克，如果把这些水果全部装竹篓里，每只竹篓装100千克，需要这样的竹篓多少只？",
+        "segmented_text": "车站 水果店 运 来 桃子 850 千克 ， 苹果 1150 千克 ， 如果 把 这些 水果 全部 装 竹篓 里 ， 每 只 竹篓 装 100 千克 ， 需要 这样 的 竹篓 多少 只 ？",
+        "equation": "x=(850+1150)/100",
+        "ans": "20",
+        "en_text": "The station fruit shop transported 850 kg of peaches and 1150 kg of apples. If all these fruits were packed in bamboo baskets with 100 kg each, how many such bamboo baskets would be needed?\n"
+    },
+    {
+        "id": "23072",
+        "original_text": "某修路队修一条路，平均每天修138米，已经修了42天，还剩385米没修好，这条路全长多少米？",
+        "segmented_text": "某 修路 队 修 一条 路 ， 平均 每天 修 138 米 ， 已经 修 了 42 天 ， 还 剩 385 米 没 修好 ， 这 条 路 全长 多少 米 ？",
+        "equation": "x=138*42+385",
+        "ans": "6181",
+        "en_text": "A road repair team builds a road, with an average of 138 meters per day. It has been repaired for 42 days, and 385 meters remain to be repaired. How many meters is the total length of the road?\n"
+    },
+    {
+        "id": "23073",
+        "original_text": "差是590，减数是380，被减数=．",
+        "segmented_text": "差 是 590 ， 减数 是 380 ， 被减数 = ．",
+        "equation": "x=590+380",
+        "ans": "970",
+        "en_text": "The difference is 590, the subtraction is 380, and the subtracted =\n"
+    },
+    {
+        "id": "23074",
+        "original_text": "商店运来一批水果，运来苹果36筐，梨的筐数是苹果的(3)/(4)，同时又是橘子的(3)/(5)．商店运来橘子多少筐？",
+        "segmented_text": "商店 运 来 一批 水果 ， 运 来 苹果 36 筐 ， 梨 的 筐 数 是 苹果 的 (3)/(4) ， 同时 又 是 橘子 的 (3)/(5) ． 商店 运 来 橘子 多少 筐 ？",
+        "equation": "x=36*(3)/(4)/(3)/(5)",
+        "ans": "45",
+        "en_text": "The store brought a batch of fruits, 36 baskets of apples, and the number of baskets of pears was (3) / (4) of apples and (3) / (5) of oranges. How many baskets of oranges did the store bring?\n"
+    },
+    {
+        "id": "23075",
+        "original_text": "小巧计划用12天看完1本书，实际每天看了18页，只用了10天就看完了，实际比计划每天多看多少页？",
+        "segmented_text": "小巧 计划 用 12 天 看 完 1 本书 ， 实际 每天 看 了 18 页 ， 只用 了 10 天 就 看 完 了 ， 实际 比 计划 每天 多 看 多少 页 ？",
+        "equation": "x=18-18*10/12",
+        "ans": "3",
+        "en_text": "Xiaoqiao plans to read a book in 12 days. In fact, she reads 18 pages a day and only reads it in 10 days. How many pages more than planned?\n"
+    },
+    {
+        "id": "23076",
+        "original_text": "1块菜地，(1)/(5)种茄子，(2)/(3)种黄瓜，其余的种菠菜，种菠菜的面积占这块地的几分之几？",
+        "segmented_text": "1 块 菜地 ， (1)/(5) 种 茄子 ， (2)/(3) 种 黄瓜 ， 其余 的 种 菠菜 ， 种 菠菜 的 面积 占 这块 地 的 几分 之 几 ？",
+        "equation": "x=1-((1)/(5)+(2)/(3))",
+        "ans": "(2)/(15)",
+        "en_text": "1 vegetable field, (1) / (5) eggplant, (2) / (3) cucumber, and the rest spinach. What is the area of spinach?\n"
+    },
+    {
+        "id": "23077",
+        "original_text": "学校开展课外活动，参加舞蹈队的同学有28人，参加合唱队的人数是舞蹈队的2.5倍，参加舞蹈队和合唱队的同学共有多少人？",
+        "segmented_text": "学校 开展 课外活动 ， 参加 舞蹈队 的 同学 有 28 人 ， 参加 合唱队 的 人数 是 舞蹈队 的 2.5 倍 ， 参加 舞蹈队 和 合唱队 的 同学 共有 多少 人 ？",
+        "equation": "x=28*2.5+28",
+        "ans": "98",
+        "en_text": "The school carries out extracurricular activities. There are 28 students participating in the dance team, and the number of students participating in the chorus is 2.5 times that of the dance team. How many students participate in the dance team and chorus?\n"
+    },
+    {
+        "id": "23078",
+        "original_text": "某商店将每台彩电先按进价提高40%标出售价，然后广告宣传将以0.8的优惠价出售，结果每台彩电赚了300元，则经销这种彩电的利润率=？",
+        "segmented_text": "某 商店 将 每 台 彩电 先 按 进价 提高 40% 标出 售价 ， 然后 广告宣传 将 以 0.8 的 优惠价 出售 ， 结果 每 台 彩电 赚 了 300 元 ， 则 经销 这种 彩电 的 利润率 = ？",
+        "equation": "x=(1+40)*0.8-1",
+        "ans": "12",
+        "en_text": "A store first increases the purchase price of each color TV set by 40%, and then advertises that it will be sold at a preferential price of 0.8. As a result, each color TV set earns 300 yuan, then the profit margin of distributing this color TV set =?\n"
+    },
+    {
+        "id": "23079",
+        "original_text": "同学们积极为汶川大地震的灾民捐款，12个班共捐款8760元，后来每班又多捐(1)/(5)实际每班平均捐款多少元？",
+        "segmented_text": "同学 们 积极 为 汶川 大 地震 的 灾民 捐款 ， 12 个 班 共 捐款 8760 元 ， 后来 每班 又 多 捐 (1)/(5) 实际 每班 平均 捐款 多少 元 ？",
+        "equation": "x=8760/12*(1+(1)/(5))",
+        "ans": "876",
+        "en_text": "The students actively donated 8760 yuan to the victims of the Wenchuan earthquake. Later, each class donated more (1) / (5) how much yuan did each class actually donate on average?\n"
+    },
+    {
+        "id": "23080",
+        "original_text": "同学们进行越野赛跑，小兵跑了全程的(1)/(3)，离终点还有1千米，这次越野的全程=多少千米？",
+        "segmented_text": "同学 们 进行 越野赛跑 ， 小兵 跑 了 全程 的 (1)/(3) ， 离 终点 还有 1 千米 ， 这次 越野 的 全程 = 多少 千米 ？",
+        "equation": "x=1/(1-(1)/(3))",
+        "ans": "1.5",
+        "en_text": "The students had a cross-country race. The soldiers ran (1) / (3) of the whole course. There was still 1 kilometer to the end. How many kilometers is the whole cross-country race?\n"
+    },
+    {
+        "id": "23081",
+        "original_text": "小明读一本420页的童话书，8天读了120页，照这样计算，读完这本书要用多少天？",
+        "segmented_text": "小 明 读 一本 420 页 的 童话 书 ， 8 天 读 了 120 页 ， 照 这样 计算 ， 读完 这 本书 要 用 多少 天 ？",
+        "equation": "x=420/(120/8)",
+        "ans": "28",
+        "en_text": "Xiao Ming read a 420 page fairy tale book and 120 pages in 8 days. According to this calculation, how many days will it take to finish reading this book?\n"
+    },
+    {
+        "id": "23082",
+        "original_text": "小辉家有3口人，住房面积是72.6平方米，他家人均住房面积=多少平方米？",
+        "segmented_text": "小 辉 家 有 3 口 人 ， 住房面积 是 72.6 平方米 ， 他家 人均 住房面积 = 多少 平方米 ？",
+        "equation": "x=72.6/3",
+        "ans": "24.2",
+        "en_text": "Xiaohui's family has 3 people, and the housing area is 72.6 square meters. What square meters is the average housing area of his family?\n"
+    },
+    {
+        "id": "23083",
+        "original_text": "120的(3)/(4)比它的(2)/(5)多多少？",
+        "segmented_text": "120 的 (3)/(4) 比 它 的 (2)/(5) 多 多少 ？",
+        "equation": "x=120*(3)/(4)-120*(2)/(5)",
+        "ans": "42",
+        "en_text": "How much more (3) / (4) of 120 than its (2) / (5)?\n"
+    },
+    {
+        "id": "23084",
+        "original_text": "1根木料，锯成4段要付费1.2元，如果要锯成12段要付费多少元．",
+        "segmented_text": "1 根 木料 ， 锯 成 4 段 要 付费 1.2 元 ， 如果 要 锯 成 12 段 要 付费 多少 元 ．",
+        "equation": "x=1.2/(4-1)*(12-1)",
+        "ans": "4.4",
+        "en_text": "It costs 1.2 yuan to cut a piece of wood into 4 sections, and how much yuan to cut it into 12 sections\n"
+    },
+    {
+        "id": "23085",
+        "original_text": "学校建综合楼，实际投资170万元，比计划节约了15%，计划投资多少万元？",
+        "segmented_text": "学校 建 综合楼 ， 实际 投资 170 万元 ， 比 计划 节约 了 15% ， 计划 投资 多少 万元 ？",
+        "equation": "x=170/(1-15)",
+        "ans": "200",
+        "en_text": "The actual investment in building a comprehensive building of the school is 1.7 million yuan, which is 15% less than the planned investment. How much is the planned investment?\n"
+    },
+    {
+        "id": "23086",
+        "original_text": "除数是(5)/(7)，商与除数的差是10，商=．",
+        "segmented_text": "除数 是 (5)/(7) ， 商 与 除数 的 差 是 10 ， 商 = ．",
+        "equation": "x=(5)/(7)+10",
+        "ans": "10(5)/(7)",
+        "en_text": "The divisor is (5) / (7), the difference between quotient and divisor is 10, quotient =\n"
+    },
+    {
+        "id": "23087",
+        "original_text": "王老师家买了一套商品房，总价44万元，如果一次付清房款，可以0.9优惠．王老师一次付清房款多少元钱？",
+        "segmented_text": "王老师 家 买 了 一套 商品房 ， 总价 44 万元 ， 如果 一次 付清 房款 ， 可以 0.9 优惠 ． 王老师 一次 付清 房款 多少 元 钱 ？",
+        "equation": "x=44*0.9",
+        "ans": "39.6",
+        "en_text": "Mr. Wang's family bought a commercial house with a total price of 440000 yuan. If you pay the house price at one time, you can get a discount of 0.9. How much does Mr. Wang pay the house price at one time?\n"
+    },
+    {
+        "id": "23088",
+        "original_text": "甲筐苹果重40千克，从甲筐取出3千克放入乙筐，则乙筐还比甲筐少2千克．原来乙筐有苹果多少千克．（5分）",
+        "segmented_text": "甲 筐 苹果 重 40 千克 ， 从 甲 筐 取出 3 千克 放入 乙 筐 ， 则 乙 筐 还 比 甲 筐 少 2 千克 ． 原来 乙 筐 有 苹果 多少 千克 ． （ 5 分 ）",
+        "equation": "x=40-(3*2+2)",
+        "ans": "32",
+        "en_text": "The apples in basket a weigh 40kg. Take 3kg from basket a and put it into basket B, then basket B is 2kg less than basket A. how many kilograms of apples are there in basket B. (5 points)\n"
+    },
+    {
+        "id": "23089",
+        "original_text": "1只东北虎重360千克，是一只鸵鸟的4倍，鸵鸟比东北虎轻多少千克？",
+        "segmented_text": "1 只 东北虎 重 360 千克 ， 是 一只 鸵鸟 的 4 倍 ， 鸵鸟 比 东北虎 轻 多少 千克 ？",
+        "equation": "x=360/(4-1)",
+        "ans": "120",
+        "en_text": "A Siberian tiger weighs 360 kilograms, which is four times that of an ostrich. How many kilograms is an ostrich lighter than a Siberian tiger?\n"
+    },
+    {
+        "id": "23090",
+        "original_text": "3辆卡车共运480箱苹果，照这样计算，再增加4辆卡车，一共可以运多少箱？",
+        "segmented_text": "3 辆 卡车 共运 480 箱 苹果 ， 照 这样 计算 ， 再 增加 4 辆 卡车 ， 一共 可以 运 多少 箱 ？",
+        "equation": "x=480/3*(3+4)",
+        "ans": "1120",
+        "en_text": "A total of 480 boxes of apples are transported by three trucks. According to this calculation, how many boxes can be transported by adding four trucks?\n"
+    },
+    {
+        "id": "23091",
+        "original_text": "1袋大米重50千克，吃了60%，还剩多少千克．",
+        "segmented_text": "1 袋 大米 重 50 千克 ， 吃 了 60% ， 还 剩 多少 千克 ．",
+        "equation": "x=50*(1-60)",
+        "ans": "20",
+        "en_text": "A bag of rice weighs 50 kilograms. After eating 60%, how many kilograms are left\n"
+    },
+    {
+        "id": "23092",
+        "original_text": "1辆汽车往城里运货，去时每时行45千米，行了4小时，返回时只用了3小时，返回时每小时行多少千米？",
+        "segmented_text": "1 辆 汽车 往 城里 运货 ， 去 时 每 时 行 45 千米 ， 行 了 4 小时 ， 返回 时 只用 了 3 小时 ， 返回 时 每 小时 行 多少 千米 ？",
+        "equation": "x=45*4/3",
+        "ans": "60",
+        "en_text": "A car carries goods to the city. It travels 45 kilometers per hour for 4 hours. It takes only 3 hours to return. How many kilometers per hour do you travel when you return?\n"
+    },
+    {
+        "id": "23093",
+        "original_text": "(62)/(65)减去它的(16)/(31)，所得的差除24，结果=？",
+        "segmented_text": "(62)/(65) 减去 它 的 (16)/(31) ， 所得 的 差 除 24 ， 结果 = ？",
+        "equation": "x=24/((62)/(65)-(62)/(65)*(16)/(31))",
+        "ans": "52",
+        "en_text": "(62) / (65) minus its (16) / (31), the difference is divided by 24, and the result =?\n"
+    },
+    {
+        "id": "23094",
+        "original_text": "甲乙两个工程队分别从两端开凿一条隧道，甲队每天凿20米，乙队每天凿23米，甲队先开凿5天后，乙队才从另一端开始，120天后凿完．这条隧道长多少米？",
+        "segmented_text": "甲乙 两个 工程队 分别 从 两端 开凿 一条 隧道 ， 甲队 每天 凿 20 米 ， 乙 队 每天 凿 23 米 ， 甲队 先 开凿 5 天 后 ， 乙 队 才 从 另一端 开始 ， 120 天 后 凿 完 ． 这 条 隧道 长 多少 米 ？",
+        "equation": "x=120*20+23*(120-5)",
+        "ans": "5045",
+        "en_text": "The two engineering teams of Party A and Party B respectively dig a tunnel from both ends. Team a digs 20 meters every day and team B digs 23 meters every day. Team a digs 5 days before team B starts from the other end and finishes digging 120 days later. How long is the tunnel?\n"
+    },
+    {
+        "id": "23095",
+        "original_text": "甲、乙两地相距380千米，一辆汽车从甲地开往乙地，已经行了140千米．剩下的路程每小时行60千米，还要行几小时？",
+        "segmented_text": "甲 、 乙 两地 相距 380 千米 ， 一辆 汽车 从 甲地 开往 乙地 ， 已经 行 了 140 千米 ． 剩下 的 路程 每 小时 行 60 千米 ， 还要 行 几小时 ？",
+        "equation": "x=(380-140)/60",
+        "ans": "4",
+        "en_text": "A and B are 380 kilometers apart. A car has traveled 140 kilometers from a to B. the rest of the journey is 60 kilometers per hour. How many hours will it take?\n"
+    },
+    {
+        "id": "23096",
+        "original_text": "小明看一本120页的故事书，第一天读了全书的(1)/(10)，第2天读了全书的(1)/(6)，第3天应从第多少页读起．",
+        "segmented_text": "小 明 看 一本 120 页 的 故事书 ， 第一天 读 了 全书 的 (1)/(10) ， 第 2 天 读 了 全书 的 (1)/(6) ， 第 3 天 应从 第 多少 页 读 起 ．",
+        "equation": "x=120*((1)/(10)+(1)/(6))+1",
+        "ans": "33",
+        "en_text": "Xiao Ming read a 120 page story book. He read (1) / (10) of the whole book on the first day, and (1) / (6) of the whole book on the second day. What page should he read on the third day\n"
+    },
+    {
+        "id": "23097",
+        "original_text": "从938里连续减去多少个7，正好减完．",
+        "segmented_text": "从 938 里 连续 减去 多少 个 7 ， 正好 减 完 ．",
+        "equation": "x=938/7",
+        "ans": "134",
+        "en_text": "How many consecutive 7's are subtracted from 938 is exactly finished\n"
+    },
+    {
+        "id": "23098",
+        "original_text": "李叔叔从绵阳到成都乘坐汽车．汽车的速度是83千米\\小时，2小时后还相距45千米．绵阳到成都一共有多少千米？",
+        "segmented_text": "李 叔叔 从 绵阳 到 成都 乘坐 汽车 ． 汽车 的 速度 是 83 千米 \\ 小时 ， 2 小时 后 还 相距 45 千米 ． 绵阳 到 成都 一共 有 多少 千米 ？",
+        "equation": "x=83*2+45",
+        "ans": "211",
+        "en_text": "Uncle Li takes a bus from Mianyang to Chengdu. The speed of the bus is 83 km / h, and the distance is 45 km two hours later. How many kilometers is there from Mianyang to Chengdu?\n"
+    },
+    {
+        "id": "23099",
+        "original_text": "1辆货车从甲地往返乙地，去时速度是36千米/每小时，5小时到达乙地，从乙地返回时每小时行驶45千米，货车返回时需要多少时间？",
+        "segmented_text": "1 辆 货车 从 甲地 往返 乙地 ， 去 时 速度 是 36 千米 / 每 小时 ， 5 小时 到达 乙地 ， 从 乙地 返回 时 每 小时 行驶 45 千米 ， 货车 返回 时 需要 多少 时间 ？",
+        "equation": "x=36*5/45",
+        "ans": "4",
+        "en_text": "A truck travels from place a to place B at a speed of 36 km / h, arrives at place B in 5 hours, and travels 45 km / h when returning from place B. how long does it take for the truck to return?\n"
+    },
+    {
+        "id": "23100",
+        "original_text": "甲乙两车从AB两地同时出发，相向而行3小时后，甲车行到全程的(3)/(7)处与乙车相遇，已知甲车每小时行30千米，乙车行完全程要5(1)/(4)小时，求AB两地相距多少千米？",
+        "segmented_text": "甲乙 两车 从 AB 两地 同时 出发 ， 相向 而 行 3 小时 后 ， 甲 车行 到 全程 的 (3)/(7) 处 与 乙 车 相遇 ， 已知 甲 车 每 小时 行 30 千米 ， 乙 车行 完全 程 要 5(1)/(4) 小时 ， 求 AB 两地 相距 多少 千米 ？",
+        "equation": "x=30*3/(3)/(7)",
+        "ans": "210",
+        "en_text": "Car a and car B start from ab at the same time and travel in opposite directions for 3 hours. Car a meets car B at (3) / (7) of the whole journey. It is known that car a travels 30 kilometers per hour and car B takes 5 (1) / (4) hours to complete the whole journey. How many kilometers are there between AB and car a?\n"
+    },
+    {
+        "id": "23101",
+        "original_text": "有一个数，把它乘4以后减去46，再把所得的差除以3，然后减去10，最后得40，问：这个数是几？",
+        "segmented_text": "有 一个 数 ， 把 它 乘 4 以后 减去 46 ， 再 把 所得 的 差 除以 3 ， 然后 减去 10 ， 最后 得 40 ， 问 ： 这个 数 是 几 ？",
+        "equation": "x=(40+10)*3+46/4",
+        "ans": "49",
+        "en_text": "There is a number, multiply it by 4, subtract 46, divide the difference by 3, then subtract 10, and finally get 40. Q: what is this number?\n"
+    },
+    {
+        "id": "23102",
+        "original_text": "2.8与4的积，减去6.5/5的商，差=？",
+        "segmented_text": "2.8 与 4 的 积 ， 减去 6.5 / 5 的 商 ， 差 = ？",
+        "equation": "x=2.8*4-6.5/5",
+        "ans": "9.9",
+        "en_text": "Product of 2.8 and 4 minus quotient of 6.5 / 5, difference =?\n"
+    },
+    {
+        "id": "23103",
+        "original_text": "1段电线，长(2)/(5)米，截去(1)/(5)后，再接上4米，结果比原来电线长多少米．",
+        "segmented_text": "1 段 电线 ， 长 (2)/(5) 米 ， 截去 (1)/(5) 后 ， 再 接上 4 米 ， 结果 比 原来 电线 长 多少 米 ．",
+        "equation": "x=(2)/(5)*(1-(1)/(5))+4-(2)/(5)",
+        "ans": "3.92",
+        "en_text": "One section of wire is (2) / (5) meters long. After cutting off (1) / (5), connect it for 4 meters. The result is how many meters longer than the original wire\n"
+    },
+    {
+        "id": "23104",
+        "original_text": "1条路长180米，在它的一边从头到尾都种上梧桐树，每隔3米种一棵，一共要种多少棵？",
+        "segmented_text": "1 条 路 长 180 米 ， 在 它 的 一边 从头到尾 都 种 上 梧桐树 ， 每隔 3 米 种 一棵 ， 一共 要 种 多少 棵 ？",
+        "equation": "x=180/3+1",
+        "ans": "61",
+        "en_text": "Wutong tree is from 1 to 180 meters long. From a to Z, it grows on the side of the plane. How many trees are planted every 3 meters?\n"
+    },
+    {
+        "id": "23105",
+        "original_text": "猎豹每小时跑110公里，野马每小时跑55公里，猎豹的速度是野马的几倍？",
+        "segmented_text": "猎豹 每 小时 跑 110 公里 ， 野马 每 小时 跑 55 公里 ， 猎豹 的 速度 是 野马 的 几倍 ？",
+        "equation": "x=110/55",
+        "ans": "2",
+        "en_text": "The cheetah runs 110 kilometers per hour and the Mustang runs 55 kilometers per hour. How many times is the speed of the cheetah?\n"
+    },
+    {
+        "id": "23106",
+        "original_text": "1次歌咏比赛，冠军得9.89分，亚军得分比冠军少0.26分．亚军的成绩=多少分？",
+        "segmented_text": "1 次 歌咏 比赛 ， 冠军 得 9.89 分 ， 亚军 得分 比 冠军 少 0.26 分 ． 亚军 的 成绩 = 多少 分 ？",
+        "equation": "x=9.89-0.26",
+        "ans": "9.63",
+        "en_text": "In one singing competition, the champion scored 9.89 points, and the runner up scored 0.26 points less than the champion. What was the score of the runner up?\n"
+    },
+    {
+        "id": "23107",
+        "original_text": "30名学生参加数学竞赛，已知参赛者中任何10人里都至少有一名男生，那么男生至少有多少人．",
+        "segmented_text": "30 名 学生 参加 数学 竞赛 ， 已知 参赛者 中 任何 10 人 里 都 至少 有 一名 男生 ， 那么 男生 至少 有 多少 人 ．",
+        "equation": "x=30-(10-1)",
+        "ans": "21",
+        "en_text": "Thirty students participate in the math competition. It is known that there is at least one boy in any 10 contestants. How many boys are there\n"
+    },
+    {
+        "id": "23108",
+        "original_text": "新兴小学盖了一幢3层教学楼．每层10个教室，买来600张课桌放在这些教室里，平均每个教室放多少张？",
+        "segmented_text": "新兴 小学 盖 了 一幢 3 层 教学楼 ． 每层 10 个 教室 ， 买来 600 张 课桌 放在 这些 教室 里 ， 平均 每个 教室 放 多少 张 ？",
+        "equation": "x=600/(10*3)",
+        "ans": "20",
+        "en_text": "Xinxing primary school has built a three storey teaching building. There are 10 classrooms on each floor, and 600 desks are bought and placed in these classrooms. How many desks are placed in each classroom on average?\n"
+    },
+    {
+        "id": "23109",
+        "original_text": "李家3月份用电85千瓦时，付电费46.75元．4月份用电105千瓦时，应付电费多少钱？",
+        "segmented_text": "李家 3 月份 用电 85 千瓦时 ， 付 电费 46.75 元 ． 4 月份 用电 105 千瓦时 ， 应付 电费 多少 钱 ？",
+        "equation": "x=105*(46.75/85)",
+        "ans": "57.75",
+        "en_text": "The Li family used 85 kwh of electricity in March and paid 46.75 yuan for electricity. In April, they used 105 kwh of electricity. How much should they pay for electricity?\n"
+    },
+    {
+        "id": "23110",
+        "original_text": "工程队保修一段高速公路，平均每月修16.5千米，修了18个月后，离中点还有18.5千米，这段高速公路全长多少千米？",
+        "segmented_text": "工程队 保修 一段 高速公路 ， 平均 每月 修 16.5 千米 ， 修 了 18 个 月 后 ， 离 中 点 还有 18.5 千米 ， 这 段 高速公路 全长 多少 千米 ？",
+        "equation": "x=16.5*18+18.5",
+        "ans": "315.5",
+        "en_text": "The engineering team maintains a section of expressway with an average of 16.5 kilometers per month. After 18 months of repair, it is still 18.5 kilometers from the midpoint. How many kilometers is the total length of this section of Expressway?\n"
+    },
+    {
+        "id": "23111",
+        "original_text": "1本书400页，小刘每天看这本书的(1)/(10)，是小李每天看的(4)/(5)．小李每天看了多少页？",
+        "segmented_text": "1 本书 400 页 ， 小 刘 每天 看 这 本书 的 (1)/(10) ， 是 小 李 每天 看 的 (4)/(5) ． 小 李 每天 看 了 多少 页 ？",
+        "equation": "x=400*(1)/(10)/(4)/(5)",
+        "ans": "50",
+        "en_text": "A book has 400 pages. Xiao Liu reads (1) / (10) of this book every day, which is (4) / (5) of Xiao Li's every day. How many pages does Xiao Li read every day?\n"
+    },
+    {
+        "id": "23112",
+        "original_text": "商店有大米180袋，比面粉的(2)/(5)多30袋，面粉有多少袋？",
+        "segmented_text": "商店 有 大米 180 袋 ， 比 面粉 的 (2)/(5) 多 30 袋 ， 面粉 有 多少 袋 ？",
+        "equation": "x=(180-30)/(2)/(5)",
+        "ans": "375",
+        "en_text": "The store has 180 bags of rice, 30 more than (2) / (5) of flour. How many bags of flour?\n"
+    },
+    {
+        "id": "23113",
+        "original_text": "小明看1本书，已经看好480页，比剩下的多60%．这本书共多少页？",
+        "segmented_text": "小 明 看 1 本书 ， 已经 看好 480 页 ， 比 剩下 的 多 60% ． 这 本书 共 多少 页 ？",
+        "equation": "x=480/(1+60)+480",
+        "ans": "780",
+        "en_text": "Xiao Ming has read a book and is optimistic about 480 pages, 60% more than the rest. How many pages is this book?\n"
+    },
+    {
+        "id": "23114",
+        "original_text": "9个■的(1)/(3)=多少个■．",
+        "segmented_text": "9 个 ■ 的 (1)/(3) = 多少 个 ■ ．",
+        "equation": "x=9*(1)/(3)",
+        "ans": "3",
+        "en_text": "(1) / (3) = how many ■\n"
+    },
+    {
+        "id": "23115",
+        "original_text": "蜂鸟是目前世界上所发现的最小的鸟，它(5)/(6)分钟可以飞行(1)/(4)km．蜂鸟平均每分钟可以飞行多少千米？",
+        "segmented_text": "蜂鸟 是 目前 世界 上 所 发现 的 最小 的 鸟 ， 它 (5)/(6) 分钟 可以 飞行 (1)/(4)km ． 蜂鸟 平均 每分钟 可以 飞行 多少 千米 ？",
+        "equation": "x=(1)/(4)/(5)/(6)",
+        "ans": "(3)/(10)",
+        "en_text": "Hummingbird is the smallest bird found in the world. It can fly (1) / (4) km in (5) / (6) minutes. How many kilometers can hummingbird fly per minute?\n"
+    },
+    {
+        "id": "23116",
+        "original_text": "六年级同学打算为毕业联欢会做50个头饰．第一节课做了计划的30%，第2节课做了计划的(1)/(2)．已经做成多少个？",
+        "segmented_text": "六年级 同学 打算 为 毕业 联欢会 做 50 个 头饰 ． 第一节 课 做 了 计划 的 30% ， 第 2 节 课 做 了 计划 的 (1)/(2) ． 已经 做成 多少 个 ？",
+        "equation": "x=50*(30+(1)/(2))",
+        "ans": "40",
+        "en_text": "Sixth grade students plan to make 50 headdresses for the graduation party. 30% of the first class and (1) / (2) of the second class have been planned. How many have been made?\n"
+    },
+    {
+        "id": "23117",
+        "original_text": "暑假快到了，爸爸打算给小红买双运动鞋和一根跳绳锻炼身体．一双运动鞋38.5元，一根跳绳4.8元，付给售货员50元钱，还应找回多少元？",
+        "segmented_text": "暑假 快 到 了 ， 爸爸 打算 给 小 红 买 双 运动鞋 和 一根 跳绳 锻炼身体 ． 一双 运动鞋 38.5 元 ， 一根 跳绳 4.8 元 ， 付给 售货员 50 元 钱 ， 还 应 找回 多少 元 ？",
+        "equation": "x=50-38.5-4.8",
+        "ans": "6.7",
+        "en_text": "The summer vacation is coming. My father plans to buy Xiaohong a pair of sneakers and a skipping rope to exercise. A pair of sneakers is 38.5 yuan and a skipping rope is 4.8 yuan. Pay the salesperson 50 yuan. How much more should I get back?\n"
+    },
+    {
+        "id": "23118",
+        "original_text": "1个工程队修筑公路，前5天每天筑路25.5米．后3天共筑路78.5米，这几天中平均每天筑路多少米？",
+        "segmented_text": "1 个 工程队 修筑公路 ， 前 5 天 每天 筑路 25.5 米 ． 后 3 天 共 筑路 78.5 米 ， 这 几天 中 平均 每天 筑路 多少 米 ？",
+        "equation": "x=(25.5*5+78.5)/(5+3)",
+        "ans": "25.75",
+        "en_text": "An engineering team built roads. In the first five days, 25.5 meters of roads were built every day. In the next three days, 78.5 meters of roads were built. How many meters were built every day on average in these days?\n"
+    },
+    {
+        "id": "23119",
+        "original_text": "某家电卖场运来液晶电视机250台，是运来冰箱台数的(5)/(3)，运来洗衣机的台数是冰箱台数的(3)/(10)，运来洗衣机多少台？",
+        "segmented_text": "某 家电 卖场 运 来 液晶 电视机 250 台 ， 是 运 来 冰箱 台数 的 (5)/(3) ， 运 来 洗衣机 的 台数 是 冰箱 台数 的 (3)/(10) ， 运 来 洗衣机 多少 台 ？",
+        "equation": "x=250/(5)/(3)*(3)/(10)",
+        "ans": "45",
+        "en_text": "A home appliance store shipped 250 LCD TVs, which is (5) / (3) of the number of refrigerators, and the number of washing machines is (3) / (10) of the number of refrigerators. How many washing machines?\n"
+    },
+    {
+        "id": "23120",
+        "original_text": "999+998+997+1000+1003+1002+1001=．",
+        "segmented_text": "999 + 998 + 997 + 1000 + 1003 + 1002 + 1001 = ．",
+        "equation": "x=999+998+997+1000+1003+1002+1001",
+        "ans": "7000",
+        "en_text": "999 + 998 + 997 + 1000 + 1003 + 1002 + 1001 = ．\n"
+    },
+    {
+        "id": "23121",
+        "original_text": "绿地小学向希望小学捐赠了故事书352本，捐赠的科技书比故事书多216本，如果要把所有的书装箱，每40分装一箱，一共要装多少箱？",
+        "segmented_text": "绿地 小学 向 希望 小学 捐赠 了 故事书 352 本 ， 捐赠 的 科技 书 比 故事书 多 216 本 ， 如果 要 把 所有 的 书 装箱 ， 每 40 分装 一箱 ， 一共 要 装 多少 箱 ？",
+        "equation": "x=(352+216+352)/40",
+        "ans": "23",
+        "en_text": "Greenland primary school donated 352 story books to hope primary school, 216 more science and technology books than story books. If you want to pack all the books in a box every 40 minutes, how many boxes do you need to pack in total?\n"
+    },
+    {
+        "id": "23122",
+        "original_text": "两列火车从两个车站同时相向出发，甲车每小时行48千米，乙车每小时行78千米，经过2.5小时两车相遇．两个车站之间的铁路长多少千米？",
+        "segmented_text": "两列 火车 从 两个 车站 同时 相向 出发 ， 甲 车 每 小时 行 48 千米 ， 乙 车 每 小时 行 78 千米 ， 经过 2.5 小时 两车 相遇 ． 两个 车站 之间 的 铁路 长 多少 千米 ？",
+        "equation": "x=(48+78)*2.5",
+        "ans": "315",
+        "en_text": "The two trains start from the two stations at the same time. Car a runs 48 kilometers per hour and car B runs 78 kilometers per hour. After 2.5 hours, the two trains meet. How many kilometers is the railway between the two stations?\n"
+    },
+    {
+        "id": "23123",
+        "original_text": "商店进了一批新款玩具，第一天卖出的数量比总数的(2)/(5)少9个，还剩33个没卖出．这批玩具共有多少个？",
+        "segmented_text": "商店 进 了 一批 新款 玩具 ， 第一天 卖出 的 数量 比 总数 的 (2)/(5) 少 9 个 ， 还 剩 33 个 没 卖出 ． 这 批 玩具 共有 多少 个 ？",
+        "equation": "x=(33-9)/(1-(2)/(5))",
+        "ans": "40",
+        "en_text": "The store bought a batch of new toys. The number sold on the first day was 9 less than the total number of (2) / (5), and there were still 33 unsold. How many toys are there in this batch?\n"
+    },
+    {
+        "id": "23124",
+        "original_text": "有两堆煤，甲堆比乙堆多28吨．如果再从乙堆中运4吨到甲堆，这时，甲堆的煤重是乙堆的2倍．甲堆原有煤多少吨？",
+        "segmented_text": "有 两堆 煤 ， 甲 堆 比 乙 堆 多 28 吨 ． 如果 再 从 乙 堆 中 运 4 吨 到 甲 堆 ， 这时 ， 甲 堆 的 煤 重 是 乙 堆 的 2 倍 ． 甲 堆 原有 煤 多少 吨 ？",
+        "equation": "x=(28+4*2)/(2-1)*2-4",
+        "ans": "68",
+        "en_text": "There are two piles of coal. Pile a is 28 tons more than pile B. if 4 tons are transported from pile B to pile a, the coal weight of pile a is twice that of pile B. how many tons of original coal does pile a have?\n"
+    },
+    {
+        "id": "23125",
+        "original_text": "1台彩色电视机打0.7后卖2100元，这台电视机原价=多少元．",
+        "segmented_text": "1 台 彩色 电视机 打 0.7 后 卖 2100 元 ， 这 台 电视机 原价 = 多少 元 ．",
+        "equation": "x=2100/0.7",
+        "ans": "3000",
+        "en_text": "A color TV set sells for 2100 yuan after playing 0.7. The original price of this TV set = how much yuan\n"
+    },
+    {
+        "id": "23126",
+        "original_text": "山羊100只，山羊比绵羊少(1)/(5)，绵羊有多少只？",
+        "segmented_text": "山羊 100 只 ， 山羊 比 绵羊 少 (1)/(5) ， 绵羊 有 多少 只 ？",
+        "equation": "x=100/(1-(1)/(5))",
+        "ans": "125",
+        "en_text": "There are 100 goats. Goats are less than sheep (1) / (5). How many sheep are there?\n"
+    },
+    {
+        "id": "23127",
+        "original_text": "1台液晶电视，降价600元后，卖4400元．降价百分之几？",
+        "segmented_text": "1 台 液晶电视 ， 降价 600 元 后 ， 卖 4400 元 ． 降价 百分之几 ？",
+        "equation": "x=600/(600+4400)",
+        "ans": "12",
+        "en_text": "One LCD TV will sell for 4400 yuan after a price reduction of 600 yuan. What is the price reduction?\n"
+    },
+    {
+        "id": "23128",
+        "original_text": "1根电线全长32米，第一次用去了全长的20%，第2次用去了全长的(7)/(10)．两次共用去多少米？",
+        "segmented_text": "1 根 电线 全长 32 米 ， 第一次 用 去 了 全长 的 20% ， 第 2 次 用 去 了 全长 的 (7)/(10) ． 两次 共用 去 多少 米 ？",
+        "equation": "x=32*(20+(7)/(10))",
+        "ans": "28.8",
+        "en_text": "The total length of a wire is 32 meters. 20% of the total length is used for the first time and (7) / (10) of the total length is used for the second time. How many meters are used for the two times?\n"
+    },
+    {
+        "id": "23129",
+        "original_text": "列式计算：8/2.4的商，加上107的(1)/(5)，和=？",
+        "segmented_text": "列式 计算 ： 8 / 2.4 的 商 ， 加上 107 的 (1)/(5) ， 和 = ？",
+        "equation": "x=2.4/8+107*(1)/(5)",
+        "ans": "21.7",
+        "en_text": "The formula calculates the quotient of 8 / 2.4, plus 107 (1) / (5), and =?\n"
+    },
+    {
+        "id": "23130",
+        "original_text": "1种服装原价150元，打0.7后，现在售价为多少元．",
+        "segmented_text": "1 种 服装 原价 150 元 ， 打 0.7 后 ， 现在 售价 为 多少 元 ．",
+        "equation": "x=150*0.7",
+        "ans": "105",
+        "en_text": "The original price of a kind of clothing is 150 yuan. After playing 0.7, how much is the current price\n"
+    },
+    {
+        "id": "23131",
+        "original_text": "每包30本，一共要寄240本书，需要几包？",
+        "segmented_text": "每包 30 本 ， 一共 要 寄 240 本书 ， 需要 几包 ？",
+        "equation": "x=240/30",
+        "ans": "8",
+        "en_text": "Each pack of 30 books, a total of 240 books, how many packs do you need?\n"
+    },
+    {
+        "id": "23132",
+        "original_text": "小东家在8楼，小东每上一层楼用15秒，他从一楼到家需要多少秒．",
+        "segmented_text": "小 东家 在 8 楼 ， 小 东 每 上 一层楼 用 15 秒 ， 他 从 一楼 到 家 需要 多少 秒 ．",
+        "equation": "x=15*(8-1)",
+        "ans": "105",
+        "en_text": "Xiaodong is on the 8th floor. It takes him 15 seconds to go up each floor. How many seconds does it take him to get home from the first floor\n"
+    },
+    {
+        "id": "23133",
+        "original_text": "小芳家距她的姑姑家有195千米，她坐的汽车平均每小时行驶65千米，她到姑姑家要多少小时？",
+        "segmented_text": "小 芳 家 距 她 的 姑姑家 有 195 千米 ， 她 坐 的 汽车 平均 每 小时 行驶 65 千米 ， 她 到 姑姑家 要 多少 小时 ？",
+        "equation": "x=195/65",
+        "ans": "3",
+        "en_text": "Xiaofang's house is 195 kilometers away from her aunt's house. Her car travels an average of 65 kilometers per hour. How many hours does it take her to get to her aunt's house?\n"
+    },
+    {
+        "id": "23134",
+        "original_text": "六年级有学生111人，相当于五年级学生人数的(3)/(4)，五年级和六年级一共有多少人？",
+        "segmented_text": "六年级 有 学生 111 人 ， 相当于 五年级 学生 人数 的 (3)/(4) ， 五年级 和 六年级 一共 有 多少 人 ？",
+        "equation": "x=111+111/(3)/(4)",
+        "ans": "259",
+        "en_text": "There are 111 students in Grade 6, which is equivalent to (3) / (4) of the number of students in Grade 5. How many students are there in Grade 5 and grade 6?\n"
+    },
+    {
+        "id": "23135",
+        "original_text": "1辆客车前3小时行105千米，后2小时行80千米．平均每小时行多少千米？",
+        "segmented_text": "1 辆 客车 前 3 小时 行 105 千米 ， 后 2 小时 行 80 千米 ． 平均 每 小时 行 多少 千米 ？",
+        "equation": "x=(105+80)/(3+2)",
+        "ans": "37",
+        "en_text": "A bus travels 105 kilometers in the first three hours and 80 kilometers in the second two hours. How many kilometers per hour?\n"
+    },
+    {
+        "id": "23136",
+        "original_text": "新兴小区新建了25栋楼房，每栋有9层，每层有8户．新建的楼房可住多少户人家？",
+        "segmented_text": "新兴 小区 新建 了 25 栋 楼房 ， 每栋 有 9 层 ， 每层 有 8 户 ． 新建 的 楼房 可 住 多少 户 人家 ？",
+        "equation": "x=25*9*8",
+        "ans": "1800",
+        "en_text": "Xinxing community has built 25 new buildings, each with 9 floors and 8 households on each floor. How many households can live in the new buildings?\n"
+    },
+    {
+        "id": "23137",
+        "original_text": "木箱里装有红色球3个、黄色球5个、蓝色球7个，若蒙眼去摸，为保证取出的球中有两个球的颜色相同，则最少要取出多少个球？",
+        "segmented_text": "木箱 里 装有 红色 球 3 个 、 黄色 球 5 个 、 蓝色 球 7 个 ， 若 蒙眼 去 摸 ， 为 保证 取出 的 球 中 有 两个 球 的 颜色 相同 ， 则 最少 要 取出 多少 个 球 ？",
+        "equation": "x=3+1",
+        "ans": "4",
+        "en_text": "There are 3 red balls, 5 yellow balls and 7 blue balls in the wooden box. If you touch them blindfolded, how many balls should be taken out at least to ensure that two of the balls taken out have the same color?\n"
+    },
+    {
+        "id": "23138",
+        "original_text": "商场运来610千克苹果，上午卖出152千克，还剩多少千克？",
+        "segmented_text": "商场 运 来 610 千克 苹果 ， 上午 卖出 152 千克 ， 还 剩 多少 千克 ？",
+        "equation": "x=610-152",
+        "ans": "458",
+        "en_text": "610kg of apples were shipped to the mall, and 152 kg were sold in the morning. How many kilograms are left?\n"
+    },
+    {
+        "id": "23139",
+        "original_text": "某工地需要水泥50吨，用一辆载重4吨的汽车运了5次，余下的改用一辆载重2.5吨的汽车运，还要运几次？",
+        "segmented_text": "某 工地 需要 水泥 50 吨 ， 用 一辆 载重 4 吨 的 汽车 运 了 5 次 ， 余下 的 改用 一辆 载重 2.5 吨 的 汽车 运 ， 还要 运 几次 ？",
+        "equation": "x=(50-4*5)/2.5",
+        "ans": "12",
+        "en_text": "A construction site needs 50 tons of cement, which is transported five times by a 4-ton truck, and the rest is transported by a 2.5-ton truck. How many times?\n"
+    },
+    {
+        "id": "23140",
+        "original_text": "体育室有45只球，第一次借走9只，第2次借走10只，体育室的球缺少了多少只．",
+        "segmented_text": "体育 室 有 45 只 球 ， 第一次 借 走 9 只 ， 第 2 次 借 走 10 只 ， 体育 室 的 球 缺少 了 多少 只 ．",
+        "equation": "x=9+10",
+        "ans": "19",
+        "en_text": "There are 45 balls in the sports room. 9 balls are borrowed for the first time and 10 balls are borrowed for the second time. How many balls are missing in the sports room\n"
+    },
+    {
+        "id": "23141",
+        "original_text": "老李用80天时间完成了一项任务，比计划节省时间(1)/(5)．计划用多少天？",
+        "segmented_text": "老李 用 80 天 时间 完成 了 一项 任务 ， 比 计划 节省时间 (1)/(5) ． 计划 用 多少 天 ？",
+        "equation": "x=80/(1-(1)/(5))",
+        "ans": "100",
+        "en_text": "Lao Li completed a task in 80 days, saving time (1) / (5) than planned. How many days is planned?\n"
+    },
+    {
+        "id": "23142",
+        "original_text": "体育馆路小学六年级有268人，计划每人植树4棵，因有事调走了60人，共植树多少棵？",
+        "segmented_text": "体育馆 路 小学 六年级 有 268 人 ， 计划 每人 植树 4 棵 ， 因 有事 调 走 了 60 人 ， 共 植树 多少 棵 ？",
+        "equation": "x=(268-60)*4",
+        "ans": "832",
+        "en_text": "There are 268 people in Grade 6 of gymnasium Road Primary School. It is planned to plant 4 trees per person. 60 people have been transferred because of something. How many trees have been planted in total?\n"
+    },
+    {
+        "id": "23143",
+        "original_text": "1本故事书共135页，第一天和第2天共看了全书的(2)/(3)，若第3天接着看，应从第多少页看起．",
+        "segmented_text": "1 本 故事书 共 135 页 ， 第一天 和 第 2 天 共 看 了 全书 的 (2)/(3) ， 若 第 3 天 接着 看 ， 应从 第 多少 页 看 起 ．",
+        "equation": "x=135*(2)/(3)+1",
+        "ans": "91",
+        "en_text": "A story book has 135 pages in total. I read (2) / (3) of the whole book on the first and second days. If I continue to read it on the third day, how many pages should I start from\n"
+    },
+    {
+        "id": "23144",
+        "original_text": "王叔叔从甲城到乙城，第一天行了全程的40%，第2天行了全程的(9)/(20)，距乙城还有90千米．甲、乙两城相距多少千米？",
+        "segmented_text": "王 叔叔 从 甲 城 到 乙 城 ， 第一天 行 了 全程 的 40% ， 第 2 天 行 了 全程 的 (9)/(20) ， 距 乙 城 还有 90 千米 ． 甲 、 乙 两城 相距 多少 千米 ？",
+        "equation": "x=90/(1-40-(9)/(20))",
+        "ans": "600",
+        "en_text": "Uncle Wang traveled 40% of the whole journey from city a to city B on the first day and (9) / (20) on the second day. He is still 90 kilometers away from city B. how many kilometers are there between city a and city B?\n"
+    },
+    {
+        "id": "23145",
+        "original_text": "时速4千米的A追赶时速3千米的B，两人相距0.5千米时，有一只蜜蜂从A的帽子上开始来回在两人中间飞，只飞到A追及B为止，若蜜蜂时速10千米，问蜜蜂飞了多少千米？",
+        "segmented_text": "时速 4 千米 的 A 追赶 时速 3 千米 的 B ， 两 人 相距 0.5 千米 时 ， 有 一只 蜜蜂 从 A 的 帽子 上 开始 来回 在 两 人 中间 飞 ， 只 飞 到 A 追 及 B 为止 ， 若 蜜蜂 时速 10 千米 ， 问 蜜蜂 飞 了 多少 千米 ？",
+        "equation": "x=0.5/(4-3)*10",
+        "ans": "5",
+        "en_text": "A with a speed of 4km / h chases B with a speed of 3km / h. when they are 0.5km apart, a bee starts from a's hat and flies back and forth between them until a chases B. if the bee has a speed of 10km / h, how many kilometers has the bee flown?\n"
+    },
+    {
+        "id": "23146",
+        "original_text": "广场新种了一批花木，其中(5)/(16)是玫瑰，(3)/(8)是月季．已知月季有36棵，玫瑰有多少棵？",
+        "segmented_text": "广场 新种 了 一批 花木 ， 其中 (5)/(16) 是 玫瑰 ， (3)/(8) 是 月季 ． 已知 月季 有 36 棵 ， 玫瑰 有 多少 棵 ？",
+        "equation": "x=36/(3)/(8)*(5)/(16)",
+        "ans": "30",
+        "en_text": "A batch of flowers and trees have been newly planted in the square, of which (5) / (16) are roses and (3) / (8) are roses. It is known that there are 36 roses and how many roses?\n"
+    },
+    {
+        "id": "23147",
+        "original_text": "往30千克盐中加入多少千克水，可得到含盐率为30%的盐水．",
+        "segmented_text": "往 30 千克 盐 中 加入 多少 千克 水 ， 可 得到 含盐 率 为 30% 的 盐水 ．",
+        "equation": "x=30/30-30",
+        "ans": "70",
+        "en_text": "How many kilograms of water are added to 30 kilograms of salt to obtain salt water with a salt content of 30%\n"
+    },
+    {
+        "id": "23148",
+        "original_text": "小东每天早上跑步15分钟，他的速度大约是每分钟跑125米，小东每天早上跑步多少米？",
+        "segmented_text": "小 东 每天 早上 跑步 15 分钟 ， 他 的 速度 大约 是 每分钟 跑 125 米 ， 小 东 每天 早上 跑步 多少 米 ？",
+        "equation": "x=15*125",
+        "ans": "1875",
+        "en_text": "Xiao Dong runs for 15 minutes every morning. His speed is about 125 meters per minute. How many meters does Xiao Dong run every morning?\n"
+    },
+    {
+        "id": "23149",
+        "original_text": "盒子里有7个红球，6个白球，任意摸一个球，摸到红球的可能性=．",
+        "segmented_text": "盒子 里 有 7 个 红球 ， 6 个 白 球 ， 任意 摸 一个 球 ， 摸 到 红球 的 可能性 = ．",
+        "equation": "x=7/(7+6)",
+        "ans": "(7)/(13)",
+        "en_text": "There are 7 red balls and 6 white balls in the box. Touch any ball. The possibility of touching the red ball =\n"
+    },
+    {
+        "id": "23150",
+        "original_text": "图书室新买来50本科技书，新买来的故事书是科技书的5倍，两种书共有多少本？",
+        "segmented_text": "图书室 新 买来 50 本 科技 书 ， 新 买来 的 故事书 是 科技 书 的 5 倍 ， 两种 书 共有 多少 本 ？",
+        "equation": "x=50*5+50",
+        "ans": "300",
+        "en_text": "The library has bought 50 new science and technology books, and the newly bought story books are five times as many as science and technology books. How many books are there in total?\n"
+    },
+    {
+        "id": "23151",
+        "original_text": "装订小组要装订1680本书，计划每小时装订80本，如果要提前5小时完成任务，那么每小时要装订多少本？",
+        "segmented_text": "装订 小组 要 装订 1680 本书 ， 计划 每 小时 装订 80 本 ， 如果 要 提前 5 小时 完成 任务 ， 那么 每 小时 要 装订 多少 本 ？",
+        "equation": "x=1680/(1680/80-5)",
+        "ans": "105",
+        "en_text": "The binding team will bind 1680 books and plans to order 80 books per hour. If the task is to be completed 5 hours in advance, how many books will be bound per hour?\n"
+    },
+    {
+        "id": "23152",
+        "original_text": "平行四边形的底是(4)/(5)米，是高的(2)/(3)，高=多少米？",
+        "segmented_text": "平行四边形 的 底 是 (4)/(5) 米 ， 是 高 的 (2)/(3) ， 高 = 多少 米 ？",
+        "equation": "x=(4)/(5)/(2)/(3)",
+        "ans": "(6)/(5)",
+        "en_text": "The bottom of a parallelogram is (4) / (5) meters, and the height is (2) / (3). How many meters does the height =?\n"
+    },
+    {
+        "id": "23153",
+        "original_text": "某商场开展促销活动，全场0.75销售，妈妈买了一件原价200元的上衣，可以少付多少元钱．",
+        "segmented_text": "某 商场 开展 促销 活动 ， 全场 0.75 销售 ， 妈妈 买 了 一件 原价 200 元 的 上衣 ， 可以 少付 多少 元 钱 ．",
+        "equation": "x=200*(1-0.75)",
+        "ans": "50",
+        "en_text": "A shopping mall carried out promotional activities and sold for 0.75. My mother bought a coat with the original price of 200 yuan. How much less can I pay\n"
+    },
+    {
+        "id": "23154",
+        "original_text": "江老师买一张光碟用去26元，买5张软盘用去75元，一张软盘比一张光盘便宜多少元？",
+        "segmented_text": "江 老师 买 一张 光碟 用 去 26 元 ， 买 5 张 软盘 用 去 75 元 ， 一张 软盘 比 一张 光盘 便宜 多少 元 ？",
+        "equation": "x=26-75/5",
+        "ans": "11",
+        "en_text": "Mr. Jiang spent 26 yuan on a CD and 75 yuan on five floppy disks. How much is a floppy disk cheaper than a CD?\n"
+    },
+    {
+        "id": "23155",
+        "original_text": "星期日，笑笑向他的爸爸要了一些钱去书城买书，笑笑用去80元，只是用去他爸爸给的钱的(4)/(5)，笑笑爸爸给了多少元钱让笑笑去买书．",
+        "segmented_text": "星期日 ， 笑笑 向 他 的 爸爸 要 了 一些 钱 去 书城 买 书 ， 笑笑 用 去 80 元 ， 只是 用 去 他 爸爸 给 的 钱 的 (4)/(5) ， 笑笑 爸爸 给 了 多少 元 钱 让 笑笑 去 买 书 ．",
+        "equation": "x=80/(4)/(5)",
+        "ans": "100",
+        "en_text": "On Sunday, Xiaoxiao asked his father for some money to buy books in the bookstore. Xiaoxiao spent 80 yuan, but only (4) / (5) of the money given by his father. How much money did Xiaoxiao give to buy books\n"
+    },
+    {
+        "id": "23156",
+        "original_text": "某农场挖一条水渠，第一天挖了92.6米，第2天比第一天少挖8.56米，这两天共挖多少米？",
+        "segmented_text": "某 农场 挖 一条 水渠 ， 第一天 挖 了 92.6 米 ， 第 2 天 比 第一天 少 挖 8.56 米 ， 这 两天 共 挖 多少 米 ？",
+        "equation": "x=92.6-8.56+92.6",
+        "ans": "176.64",
+        "en_text": "A farm dug a canal. On the first day, it dug 92.6 meters, and on the second day, it dug 8.56 meters less than the first day. How many meters were dug in these two days?\n"
+    },
+    {
+        "id": "23157",
+        "original_text": "果园里3棵梨树去年共产梨(5)/(6)吨，平均每棵梨树产梨多少吨？",
+        "segmented_text": "果园 里 3 棵 梨树 去年 共产 梨 (5)/(6) 吨 ， 平均 每棵 梨树 产 梨 多少 吨 ？",
+        "equation": "x=(5)/(6)/3",
+        "ans": "(5)/(18)",
+        "en_text": "The three pear trees in the orchard produced (5) / (6) tons of pears last year. How many tons of pears did each pear tree produce on average?\n"
+    },
+    {
+        "id": "23158",
+        "original_text": "计算：20112010*20122013-20112011*20122012+10002=．",
+        "segmented_text": "计算 ： 20112010 * 20122013 - 20112011 * 20122012 + 10002 = ．",
+        "equation": "x=20112010*20122013-20112011*20122012+10002",
+        "ans": "0",
+        "en_text": "Calculation: 20112010 * 20122013 - 20112011 * 20122012 + 10002 =\n"
+    },
+    {
+        "id": "23159",
+        "original_text": "某商店买了15盒乒乓球，每8个装一盒，1共用去了240元．平均每个乒乓球多少元？",
+        "segmented_text": "某 商店 买 了 15 盒 乒乓球 ， 每 8 个 装 一盒 ， 1 共用 去 了 240 元 ． 平均 每个 乒乓球 多少 元 ？",
+        "equation": "x=240/(15*8)",
+        "ans": "2",
+        "en_text": "A store bought 15 boxes of table tennis balls, one for every 8, and one shared 240 yuan. How much is the average table tennis ball?\n"
+    },
+    {
+        "id": "23160",
+        "original_text": "1项工作，小华单独做(1)/(2)小时完成，小明单独做(1)/(3)小时完成．若两个人合作则需要多少小时才能完成．",
+        "segmented_text": "1 项 工作 ， 小 华 单独 做 (1)/(2) 小时 完成 ， 小 明 单独 做 (1)/(3) 小时 完成 ． 若 两个 人 合作 则 需要 多少 小时 才能 完成 ．",
+        "equation": "x=1/(1/(1)/(2)+1/(1)/(3))",
+        "ans": "(1)/(5)",
+        "en_text": "For one task, Xiaohua does it alone in (1) / (2) hours and Xiaoming does it alone in (1) / (3) hours. If two people cooperate, how many hours will it take to complete it\n"
+    },
+    {
+        "id": "23161",
+        "original_text": "外国语小学新买进一批书，已知故事书的(2)/(3)等于文艺书的(4)/(5)，故事书60本，文艺书多少本？",
+        "segmented_text": "外国语 小学 新 买进 一批 书 ， 已知 故事书 的 (2)/(3) 等于 文艺 书 的 (4)/(5) ， 故事书 60 本 ， 文艺 书 多少 本 ？",
+        "equation": "x=60*(2)/(3)/(4)/(5)",
+        "ans": "50",
+        "en_text": "Foreign language primary school has bought a new batch of books. It is known that (2) / (3) of story books is equal to (4) / (5) of art books. There are 60 story books. How many art books?\n"
+    },
+    {
+        "id": "23162",
+        "original_text": "一年级和二年级学生到小精灵剧场看木偶戏，一年级有186人，二年级有235人．剧院共有500个座位，还有多少个空座位？",
+        "segmented_text": "一年级 和 二年级 学生 到 小精灵 剧场 看 木偶戏 ， 一年级 有 186 人 ， 二年级 有 235 人 ． 剧院 共有 500 个 座位 ， 还有 多少 个 空座位 ？",
+        "equation": "x=500-186-235",
+        "ans": "79",
+        "en_text": "There are 186 students in grade one and 235 students in grade two. There are 500 seats in the theater. How many empty seats are there?\n"
+    }
+]

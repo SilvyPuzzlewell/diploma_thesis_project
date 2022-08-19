@@ -1,0 +1,33 @@
+duplication: False
+test: postfix
+# Model specification
+model: mwp_mawps_or_en1_2022-05-20 08:02:00.228668
+layers: 2
+heads: 8
+d_model: 256
+dff: 1024
+lr: scheduled
+dropout: 0.1
+# Training
+epochs: 200
+batch: 128
+# Options: "dolphin", "imdb", "wikipedia_en_DUMPNUM"
+pretrain: false
+# Adam optimizer params
+beta_1: 0.95
+beta_2: 0.99
+# Data pre-processing
+pos: False
+pos_words: False
+remove_stopwords: False
+as_lemmas: False
+reorder: False
+tagging: lst
+# Other behavior
+input: False
+seed: 420365
+save: True
+path_train: /home/sylvi/diplomka/my_code/data_and_data_processing/svamp_paper_csvs/cv_mawps/fold1/train.csv
+path_test: /home/sylvi/diplomka/my_code/data_and_data_processing/svamp_paper_csvs/cv_mawps/fold1/dev.csv
+test_csv: True
+dataset_name: mawps_or_en1

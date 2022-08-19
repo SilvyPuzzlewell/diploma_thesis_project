@@ -1,0 +1,10 @@
+mode: train
+full_cv: True
+embedding: bert
+emb_name: bert-base-uncased
+en: False
+epochs: 1
+run_name: debug2
+dataset_name: debug2
+dataset_path: mawps/
+show_train_acc: False

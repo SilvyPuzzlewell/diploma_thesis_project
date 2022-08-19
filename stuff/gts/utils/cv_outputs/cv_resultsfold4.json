@@ -1,0 +1,22 @@
+{
+    "debug": {
+        "run_name": "debug",
+        "5-fold avg acc score": "0.6928857715430862",
+        "Fold0 acc": 0.71,
+        "Fold1 acc": 0.7243107769423559,
+        "Fold2 acc": 0.6741854636591479,
+        "Fold3 acc": 0.6716791979949874,
+        "Fold4 acc": 0.6842105263157895,
+        "epochs": 5,
+        "embedding": "random",
+        "embedding_size": 128,
+        "embedding_lr": 0.002,
+        "freeze_emb": false,
+        "cell_type": "lstm",
+        "hidden_size": 512,
+        "depth": 2,
+        "lr": 0.002,
+        "batch_size": 16,
+        "dropout": 0.5
+    }
+}

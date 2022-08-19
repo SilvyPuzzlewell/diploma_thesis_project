@@ -1,0 +1,10 @@
+mode: train
+full_cv: True
+embedding: random
+emb_name: ''
+en: False
+epochs: 5
+run_name: debug
+dataset_name: debug
+dataset_path: mawps/
+show_train_acc: False

@@ -1,0 +1,6 @@
+embedding_size: 768
+hidden_size: 512
+n_layers_debth: 2
+lr: 1e-3
+emb_lr: 8e-6
+batch_size: 4

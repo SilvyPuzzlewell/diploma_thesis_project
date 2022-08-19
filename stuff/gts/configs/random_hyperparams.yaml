@@ -1,0 +1,7 @@
+emb_name: '' #[bert-base-uncased, roberta-base, 'UWB-AIR/Czert-B-base-cased', 'bert-base-multilingual-uncased']
+embedding_size: 128
+hidden_size: 512
+n_layers_debth: 2
+lr: 2e-3
+emb_lr: 2e-3
+batch_size: 16

@@ -1,0 +1,33 @@
+duplication: False
+test: postfix
+# Model specification
+model: mwp_asdiva_mine_en4_2022-05-09 17:41:10.016968
+layers: 2
+heads: 8
+d_model: 256
+dff: 1024
+lr: scheduled
+dropout: 0.1
+# Training
+epochs: 200
+batch: 128
+# Options: "dolphin", "imdb", "wikipedia_en_DUMPNUM"
+pretrain: false
+# Adam optimizer params
+beta_1: 0.95
+beta_2: 0.99
+# Data pre-processing
+pos: False
+pos_words: False
+remove_stopwords: False
+as_lemmas: False
+reorder: False
+tagging: None
+# Other behavior
+input: False
+seed: 420365
+save: True
+path_train: /home/sylvi/diplomka/my_code/data_and_data_processing/svamp_paper_csvs/new_asdiv-a_cs/foldEN4/train.csv
+path_test: /home/sylvi/diplomka/my_code/data_and_data_processing/svamp_paper_csvs/new_asdiv-a_cs/foldEN4/dev.csv
+test_csv: True
+dataset_name: asdiva_mine_en4
